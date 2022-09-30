@@ -1,0 +1,231 @@
+"name","st_to_fac","retention","class20","class49","class50"
+"Princeton University",5,98,73,16.2,10.8
+"Harvard University",7,97,74,16.1,9.9
+"University of Chicago",5,99,77,17.3,5.7
+"Yale University",6,99,75.2,16.4,8.4
+"Columbia University",6,99,82.9,7.9,9.1
+"Massachusetts Institute of Technology",3,98,69.6,17.8,12.6
+"Stanford University",4,98,70.3,18.2,11.5
+"University of Pennsylvania",6,98,69.7,19.9,10.4
+"Duke University",6,97,71.4,22.1,6.5
+"California Institute of Technology",3,97,67.4,23.9,8.7
+"Dartmouth College",7,98,62.3,30.2,7.5
+"Johns Hopkins University",7,97,73.6,16.2,10.2
+"Northwestern University",7,98,77.4,16.6,6
+"Brown University",7,98,67.8,21.2,11
+"Cornell University",9,97,58,24.5,17.5
+"Rice University",6,97,70.8,21.3,7.9
+"Vanderbilt University",8,97,66.4,24.9,8.7
+"University of Notre Dame",10,98,60.4,30.1,9.5
+"Washington University in St. Louis",8,96,64.7,24.2,11.1
+"Georgetown University",11,96,61.2,31.8,7
+"Emory University",9,94,61.1,25.9,13.1
+"University of California--Berkeley",18,97,52.3,30.8,16.9
+"University of California--Los Angeles",17,97,56.6,25,18.4
+"University of Southern California",8,96,59.4,28.9,11.7
+"Carnegie Mellon University",13,96,66.6,21.5,11.9
+"University of Virginia",15,97,55.9,29.2,14.8
+"Wake Forest University",10,94,58.6,40.3,1
+"University of Michigan--Ann Arbor",15,97,59.9,23.2,16.9
+"Tufts University",8,96,67.8,25.6,6.6
+"New York University",10,93,59.9,31.4,8.7
+"University of North Carolina--Chapel Hill",13,97,38.8,46.9,14.3
+"Boston College",12,95,49.3,43.7,7
+"College of William &amp; Mary",12,96,49.2,43.6,7.2
+"Brandeis University",10,93,62.1,27.6,10.2
+"Georgia Institute of Technology",20,97,38.3,35.8,26
+"University of Rochester",10,96,71.4,16.9,11.7
+"Boston University",10,93,61,25.8,13.2
+"Case Western Reserve University",11,93,59.1,28.3,12.6
+"University of California--Santa Barbara",17,93,48.8,31.7,19.5
+"Northeastern University",14,97,67.1,26.5,6.4
+"Tulane University",8,92,61.5,32.6,5.9
+"Rensselaer Polytechnic Institute",13,93,52.8,34.1,13
+"University of California--Irvine",18,92,57,22,20.9
+"University of California--San Diego",19,95,36.3,27.9,35.8
+"University of Florida",20,96,47.8,36.7,15.4
+"Lehigh University",9,95,50.4,38.3,11.4
+"Pepperdine University",14,92,69.4,28.2,2.4
+"University of California--Davis",20,93,38,35.4,26.5
+"University of Miami",12,92,54.3,39,6.7
+"University of Wisconsin--Madison",18,95,44.3,34.7,21
+"Villanova University",12,95,41.6,55.6,2.8
+"Pennsylvania State University--University Park",16,93,28.3,52.7,19
+"University of Illinois--Urbana-Champaign",20,94,40,39.5,20.5
+"Ohio State University--Columbus",19,94,30.3,48.2,21.6
+"University of Georgia",18,95,45.5,43.5,11
+"George Washington University",13,92,51.4,38.3,10.2
+"Purdue University--West Lafayette",12,92,38,43.7,18.3
+"University of Connecticut",16,93,51.3,33.5,15.2
+"University of Texas--Austin",18,95,34.6,39.2,26.2
+"University of Washington",17,94,32.3,44.2,23.5
+"Brigham Young University--Provo",21,88,54.6,31.2,14.2
+"Fordham University",14,91,50,48.9,1.1
+"Southern Methodist University",11,90,59.1,32.3,8.6
+"Syracuse University",15,92,59,31.4,9.6
+"University of Maryland--College Park",17,95,45.1,38.1,16.8
+"Worcester Polytechnic Institute",13,96,65.1,24.6,10.3
+"Clemson University",18,93,50.9,34.3,14.9
+"University of Pittsburgh",15,92,41.1,39,20
+"American University",12,89,52,46.7,1.3
+"Rutgers University--New Brunswick",13,92,38.4,39.9,21.7
+"Stevens Institute of Technology",10,94,36.3,54.4,9.3
+"Texas A&amp;M University--College Station",21,91,22,52.2,25.8
+"University of Minnesota--Twin Cities",17,92,36.3,42.8,20.9
+"Virginia Tech",14,93,29,49.8,21.2
+"Baylor University",15,89,51.7,39.3,9
+"Colorado School of Mines",15,93,34.5,45.1,20.5
+"University of Massachusetts--Amherst",18,90,48.8,33.9,17.3
+"Miami University--Oxford",17,91,35.5,54.5,10
+"Texas Christian University",13,90,43.4,51.3,5.3
+"University of Iowa",16,86,52.3,35.5,12.2
+"Clark University",9,88,58.9,36.2,5
+"Florida State University",24,93,33.3,50.1,16.6
+"Michigan State University",17,92,27.1,49.6,23.3
+"North Carolina State University--Raleigh",13,94,38.2,46.9,14.9
+"University of California--Santa Cruz",18,90,49.1,26.7,24.2
+"University of Delaware",15,92,33,51.1,15.9
+"Binghamton University--SUNY",19,91,45.9,40.8,13.3
+"University of Denver",11,86,53,41.9,5.1
+"University of Tulsa",11,90,61.7,35.3,3.1
+"Indiana University--Bloomington",17,90,35.4,46.6,18.1
+"Marquette University",14,90,39.6,46.6,13.7
+"University of Colorado--Boulder",17,86,45.9,38.3,15.8
+"University of San Diego",14,89,40.8,59.2,NA
+"Drexel University",10,86,57.2,33.7,9.2
+"Saint Louis University",9,89,51.4,41.2,7.4
+"Yeshiva University",8,90,54.9,44.2,0.9
+"Rochester Institute of Technology",12,87,49.4,45.6,4.9
+"Stony Brook University--SUNY",17,90,37.6,38.9,23.5
+"SUNY College of Environmental Science and Forestry",13,84,49.7,40.2,10.1
+"University at Buffalo--SUNY",13,88,31.4,46,22.6
+"University of Oklahoma",17,86,46.5,42.5,11
+"University of Vermont",17,86,47.5,38.1,14.4
+"Auburn University",19,90,31.9,51.9,16.2
+"Illinois Institute of Technology",13,92,52.9,38.6,8.5
+"Loyola University Chicago",14,85,41.9,52.6,5.5
+"University of New Hampshire",18,86,41.6,41.5,16.9
+"University of Oregon",17,87,40.3,38.7,21
+"University of South Carolina",18,88,36.4,46.7,16.9
+"University of Tennessee",17,86,29.7,57,13.3
+"Howard University",7,86,54.6,40.6,4.8
+"University of Alabama",23,87,35.7,42.5,21.8
+"University of San Francisco",14,86,51.6,47.1,1.3
+"University of the Pacific",12,85,57.9,37.8,4.2
+"University of Utah",16,89,40,41.9,18.1
+"Arizona State University--Tempe",23,86,40.9,41.4,17.8
+"Iowa State University",19,87,29.1,46.4,24.5
+"Temple University",15,90,37.9,53.5,8.6
+"University of Kansas",17,80,52.2,37,10.8
+"University of St. Thomas",14,88,41.4,57.1,1.5
+"The Catholic University of America",7,84,63.4,33.3,3.3
+"DePaul University",15,85,41.2,57.9,0.9
+"Duquesne University",14,88,41.5,50.5,8
+"University of Missouri",19,86,39.8,42.7,17.5
+"Clarkson University",14,90,40.8,35.7,23.5
+"Colorado State University",18,87,34.6,46.5,18.9
+"Michigan Technological University",12,84,46,38.2,15.8
+"Seton Hall University",13,85,49.4,48.5,2.1
+"University of Arizona",22,81,38.8,45.1,16.1
+"University of California--Riverside",22,90,19.7,49.8,30.5
+"University of Dayton",15,90,40.1,56.3,3.7
+"University of Nebraska--Lincoln",21,83,36.5,45.6,17.9
+"Hofstra University",14,80,48.7,48.7,2.6
+"Louisiana State University--Baton Rouge",22,84,36.3,41.7,22
+"Mercer University",13,84,64.1,31.9,3.9
+"The New School",9,82,90.5,8.2,1.3
+"Rutgers University--Newark",10,85,30.6,54.7,14.7
+"University of Arkansas",19,82,47.6,34.7,17.7
+"University of Cincinnati",17,87,38.9,44.9,16.2
+"University of Kentucky",17,83,31.2,52.7,16.1
+"George Mason University",16,88,29.9,55.8,14.3
+"New Jersey Institute of Technology",17,87,36.7,57.9,5.4
+"San Diego State University",27,89,26.9,48.6,24.5
+"University of South Florida",22,89,31,54.5,14.5
+"Washington State University",15,79,34,45.8,20.2
+"Kansas State University",18,83,40.6,45.7,13.6
+"Oregon State University",18,84,28.9,49.7,21.4
+"St. John Fisher College",11,86,44.5,54.3,1.2
+"University of Illinois--Chicago",18,80,38.3,42,19.7
+"University of Mississippi",18,86,40.9,42.2,16.9
+"University of Texas--Dallas",23,87,23.6,52.2,24.2
+"Adelphi University",12,83,45.8,51.7,2.5
+"Florida Institute of Technology",13,80,44.5,50.8,4.7
+"Ohio University",18,80,29.6,52.7,17.7
+"Seattle Pacific University",14,85,55.7,41.1,3.2
+"University at Albany--SUNY",18,83,35.6,48.4,16
+"Oklahoma State University",20,81,32.2,51.7,16.1
+"University of Massachusetts--Lowell",17,85,52.7,41.9,5.4
+"University of Rhode Island",17,83,41.6,48.9,9.6
+"Biola University",15,85,47.6,46.9,5.5
+"Illinois State University",18,82,32.2,58,9.8
+"University of Alabama--Birmingham",16,81,36.7,45.5,17.8
+"University of Hawaii--Manoa",10,78,51.5,36.8,11.7
+"University of La Verne",13,87,68.4,31.2,0.4
+"University of Maryland--Baltimore County",19,87,36,50.5,13.6
+"Immaculata University",8,81,85.9,14.1,NA
+"Maryville University of St. Louis",13,87,68.9,30.6,0.4
+"Missouri University of Science &amp; Technology",19,84,24.6,48.1,27.3
+"St. John's University",17,81,31.5,63.9,4.5
+"University of California--Merced",20,85,25.6,45.4,28.9
+"University of Louisville",15,80,36.2,55.6,8.3
+"Mississippi State University",20,80,34.7,50.2,15.1
+"Rowan University",17,87,38.1,61.1,0.8
+"University of Central Florida",30,88,26.7,49.6,23.7
+"University of Idaho",16,78,53,37.8,9.2
+"Virginia Commonwealth University",18,87,31.1,50.9,18
+"Kent State University",21,81,51.7,39.9,8.4
+"Robert Morris University",15,82,54.6,41.9,3.5
+"Texas Tech University",21,83,28,50.7,21.3
+"Union University",11,89,74,26,NA
+"University of Hartford",9,75,72.4,27.1,0.5
+"Edgewood College",10,81,83,17,NA
+"Lesley University",12,78,68.5,31.5,NA
+"Lipscomb University",12,81,58.7,36,5.3
+"Suffolk University",13,75,47.9,51.9,0.2
+"University of Maine",16,78,39,44.6,16.4
+"University of Wyoming",14,75,39.2,50,10.8
+"Azusa Pacific University",12,85,58,40.1,1.9
+"Ball State University",14,81,41.7,52.2,6.1
+"Montclair State University",17,83,39.3,59.1,1.7
+"Pace University",14,77,48.9,48.9,2.2
+"West Virginia University",19,78,38.1,44,17.9
+"Andrews University",9,81,69.9,25.9,4.2
+"Indiana University-Purdue University--Indianapolis",17,73,34,55.2,10.8
+"University of Houston",21,86,26.7,49.4,23.9
+"University of New Mexico",20,79,55.1,33.9,11
+"University of North Dakota",21,79,37.8,53.2,9
+"Widener University",13,78,53.6,44.3,2.1
+"New Mexico State University",16,74,47.4,42.9,9.7
+"North Dakota State University",17,79,31.9,46.3,21.8
+"Nova Southeastern University",17,75,82.4,16.7,0.9
+"University of North Carolina--Charlotte",19,82,29,47,24.1
+"Bowling Green State University",18,75,42,49.1,9
+"California State University--Fullerton",25,89,22.9,68.3,8.9
+"Dallas Baptist University",12,73,66.1,32,2
+"University of Massachusetts--Boston",16,79,41.4,52.6,6
+"University of Nevada--Reno",21,81,39.5,39.3,21.2
+"Central Michigan University",22,77,33.3,59.8,6.9
+"East Carolina University",18,81,30.1,52.3,17.6
+"Florida A&amp;M University",15,83,35.7,52.5,11.7
+"Montana State University",19,76,42.2,43,14.8
+"University of Alaska--Fairbanks",10,76,69,26.5,4.6
+"University of Colorado--Denver",15,72,34.5,56.8,8.7
+"University of Massachusetts--Dartmouth",16,76,41.4,49,9.6
+"University of Montana",16,72,48.6,42.2,9.3
+"Western Michigan University",17,78,40.4,49.1,10.5
+"Florida International University",26,86,21.1,56.8,22.1
+"Louisiana Tech University",26,80,48.3,42.4,9.3
+"South Dakota State University",17,77,28.9,53.4,17.7
+"Southern Illinois University--Carbondale",15,66,59.8,34.5,5.6
+"University of Alabama--Huntsville",17,80,30.7,52.7,16.7
+"University of Missouri--Kansas City",14,74,55.8,34.3,9.9
+"Utah State University",21,70,46,40.8,13.2
+"Ashland University",16,77,49.7,50.1,0.2
+"Benedictine University",13,70,64.3,35.3,0.3
+"California State University--Fresno",21,82,18.7,71.2,10.1
+"Gardner-Webb University",13,73,71.6,28.4,NA
+"Georgia State University",19,82,20.8,62.6,16.6
+"Shenandoah University",11,78,57.2,41.8,1
+"University of South Dakota",18,76,46.7,45.8,7.5
+"Wayne State University",16,78,53.1,39.3,7.6

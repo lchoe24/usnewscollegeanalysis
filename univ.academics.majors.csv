@@ -1,0 +1,1137 @@
+"name","major_rank","major","percent"
+"Princeton University",1,"Public Policy Analysis, General",11
+"Princeton University",2,"Computer Engineering, General",9
+"Princeton University",3,"Econometrics and Quantitative Economics",9
+"Princeton University",4,"History, General",7
+"Princeton University",5,"Operations Research",6
+"Harvard University",1,"Social Sciences, General",30
+"Harvard University",2,"Biology/Biological Sciences, General",14
+"Harvard University",3,"Mathematics, General",11
+"Harvard University",4,"History, General",8
+"Harvard University",5,"Physical Sciences",7
+"University of Chicago",1,"Economics, General",20
+"University of Chicago",2,"Biology/Biological Sciences, General",9
+"University of Chicago",3,"Mathematics, General",8
+"University of Chicago",4,"Political Science and Government, General",7
+"University of Chicago",5,"Public Policy Analysis, General",6
+"Yale University",1,"Economics, General",15
+"Yale University",2,"Political Science and Government, General",9
+"Yale University",3,"History, General",7
+"Yale University",4,"Psychology, General",7
+"Yale University",5,"Cell/Cellular and Molecular Biology",6
+"Columbia University",1,"Social Sciences",23
+"Columbia University",2,"Engineering",21
+"Columbia University",3,"Biological and Biomedical Sciences",10
+"Columbia University",4,"Computer and Information Sciences and Support Services",7
+"Columbia University",5,"Visual and Performing Arts",5
+"Massachusetts Institute of Technology",1,"Engineering",38
+"Massachusetts Institute of Technology",2,"Computer and Information Sciences and Support Services",25
+"Massachusetts Institute of Technology",3,"Mathematics and Statistics",9
+"Massachusetts Institute of Technology",4,"Biological and Biomedical Sciences",8
+"Massachusetts Institute of Technology",5,"Physical Sciences",8
+"Stanford University",1,"Computer and Information Sciences and Support Services",15
+"Stanford University",2,"Multi/Interdisciplinary Studies",9
+"Stanford University",3,"Biological and Biomedical Sciences",6
+"Stanford University",4,"Social Sciences",6
+"Stanford University",5,"Engineering",6
+"University of Pennsylvania",1,"Finance, General",11
+"University of Pennsylvania",2,"Registered Nursing/Registered Nurse",6
+"University of Pennsylvania",3,"Economics, General",6
+"University of Pennsylvania",4,"Biology/Biological Sciences, General",5
+"University of Pennsylvania",5,"Political Science and Government, General",4
+"Duke University",1,"Biology/Biological Sciences, General",11
+"Duke University",2,"Economics, General",11
+"Duke University",3,"Public Policy Analysis, General",9
+"Duke University",4,"Psychology, General",7
+"Duke University",5,"Bioengineering and Biomedical Engineering",6
+"California Institute of Technology",1,"Engineering",37
+"California Institute of Technology",2,"Computer and Information Sciences and Support Services",23
+"California Institute of Technology",3,"Physical Sciences",18
+"California Institute of Technology",4,"Mathematics and Statistics",14
+"California Institute of Technology",5,"Biological and Biomedical Sciences",7
+"Dartmouth College",1,"Social Sciences",35
+"Dartmouth College",2,"Biological and Biomedical Sciences",10
+"Dartmouth College",3,"Engineering",8
+"Dartmouth College",4,"History",6
+"Dartmouth College",5,"Psychology",6
+"Johns Hopkins University",1,"Public Health, General",10
+"Johns Hopkins University",2,"Bioengineering and Biomedical Engineering",9
+"Johns Hopkins University",3,"Cell/Cellular and Molecular Biology",7
+"Johns Hopkins University",4,"Neuroscience",7
+"Johns Hopkins University",5,"International Relations and Affairs",6
+"Northwestern University",1,"Economics, General",15
+"Northwestern University",2,"Psychology, General",6
+"Northwestern University",3,"Biology/Biological Sciences, General",6
+"Northwestern University",4,"Journalism",5
+"Northwestern University",5,"Political Science and Government, General",5
+"Brown University",1,"Economics, General",9
+"Brown University",2,"Computer Science",8
+"Brown University",3,"Biology/Biological Sciences, General",7
+"Brown University",4,"Entrepreneurship/Entrepreneurial Studies",6
+"Brown University",5,"Political Science and Government, General",5
+"Cornell University",1,"Engineering",17
+"Cornell University",2,"Business, Management, Marketing, and Related Support Services",15
+"Cornell University",3,"Biological and Biomedical Sciences",14
+"Cornell University",4,"Agriculture, Agriculture Operations, and Related Sciences",12
+"Cornell University",5,"Social Sciences",9
+"Rice University",1,"Biochemistry",8
+"Rice University",2,"Economics, General",7
+"Rice University",3,"Chemical Engineering",7
+"Rice University",4,"Computer and Information Sciences, General",6
+"Rice University",5,"Mechanical Engineering",6
+"Vanderbilt University",1,"Economics, General",12
+"Vanderbilt University",2,"Multi-/Interdisciplinary Studies, Other",12
+"Vanderbilt University",3,"Social Sciences, General",9
+"Vanderbilt University",4,"Mathematics, General",5
+"Vanderbilt University",5,"Political Science and Government, General",5
+"University of Notre Dame",1,"Finance, General",10
+"University of Notre Dame",2,"Accounting",6
+"University of Notre Dame",3,"Economics, General",6
+"University of Notre Dame",4,"Political Science and Government, General",5
+"University of Notre Dame",5,"Psychology, General",5
+"Washington University in St. Louis",1,"Engineering",19
+"Washington University in St. Louis",2,"Business, Management, Marketing, and Related Support Services",13
+"Washington University in St. Louis",3,"Social Sciences",12
+"Washington University in St. Louis",4,"Biological and Biomedical Sciences",11
+"Washington University in St. Louis",5,"Psychology",9
+"Georgetown University",1,"Social Sciences",38
+"Georgetown University",2,"Business, Management, Marketing, and Related Support Services",18
+"Georgetown University",3,"Health Professions and Related Programs",6
+"Georgetown University",4,"Multi/Interdisciplinary Studies",6
+"Georgetown University",5,"Biological and Biomedical Sciences",6
+"Emory University",1,"Business Administration and Management, General",15
+"Emory University",2,"Biology/Biological Sciences, General",10
+"Emory University",3,"Economics, General",9
+"Emory University",4,"Registered Nursing/Registered Nurse",7
+"Emory University",5,"Neuroscience",7
+"University of California--Berkeley",1,"Social Sciences",19
+"University of California--Berkeley",2,"Engineering",12
+"University of California--Berkeley",3,"Biological and Biomedical Sciences",11
+"University of California--Berkeley",4,"Multi/Interdisciplinary Studies",6
+"University of California--Berkeley",5,"Mathematics and Statistics",5
+"University of California--Los Angeles",1,"Social Sciences",7
+"University of California--Los Angeles",2,"Psychology",6
+"University of California--Los Angeles",3,"Social Sciences",6
+"University of California--Los Angeles",4,"Biological and Biomedical Sciences",5
+"University of Southern California",1,"Business, Management, Marketing, and Related Support Services",25
+"University of Southern California",2,"Social Sciences",12
+"University of Southern California",3,"Visual and Performing Arts",12
+"University of Southern California",4,"Engineering",10
+"University of Southern California",5,"Communication, Journalism, and Related Programs",9
+"Carnegie Mellon University",1,"Information Technology",12
+"Carnegie Mellon University",2,"Electrical and Electronics Engineering",10
+"Carnegie Mellon University",3,"Business Administration and Management, General",8
+"Carnegie Mellon University",4,"Computer Science",5
+"Carnegie Mellon University",5,"Mechanical Engineering",5
+"University of Virginia",1,"Economics, General",11
+"University of Virginia",2,"Business/Commerce, General",9
+"University of Virginia",3,"Biology/Biological Sciences, General",7
+"University of Virginia",4,"International Relations and Affairs",7
+"University of Virginia",5,"Psychology, General",6
+"Wake Forest University",1,"Social Sciences",21
+"Wake Forest University",2,"Business, Management, Marketing, and Related Support Services",20
+"Wake Forest University",3,"Communication, Journalism, and Related Programs",9
+"Wake Forest University",4,"Biological and Biomedical Sciences",8
+"Wake Forest University",5,"Psychology",8
+"University of Michigan--Ann Arbor",1,"Business Administration and Management, General",7
+"University of Michigan--Ann Arbor",2,"Experimental Psychology",7
+"University of Michigan--Ann Arbor",3,"Economics, General",6
+"University of Michigan--Ann Arbor",4,"Physiological Psychology/Psychobiology",5
+"University of Michigan--Ann Arbor",5,"Computer and Information Sciences, General",4
+"Tufts University",1,"Social Sciences",27
+"Tufts University",2,"Engineering",10
+"Tufts University",3,"Biological and Biomedical Sciences",8
+"Tufts University",4,"Multi/Interdisciplinary Studies",7
+"Tufts University",5,"Computer and Information Sciences and Support Services",6
+"New York University",1,"Visual and Performing Arts",19
+"New York University",2,"Social Sciences",14
+"New York University",3,"Business, Management, Marketing, and Related Support Services",13
+"New York University",4,"Liberal Arts and Sciences, General Studies and Humanities",10
+"New York University",5,"Health Professions and Related Programs",8
+"University of North Carolina--Chapel Hill",1,"Communication and Media Studies",10
+"University of North Carolina--Chapel Hill",2,"Biology, General",9
+"University of North Carolina--Chapel Hill",3,"Psychology, General",8
+"University of North Carolina--Chapel Hill",4,"Economics",8
+"University of North Carolina--Chapel Hill",5,"Political Science and Government",6
+"Boston College",1,"Economics, General",12
+"Boston College",2,"Finance, General",11
+"Boston College",3,"Biology/Biological Sciences, General",8
+"Boston College",4,"Psychology, General",7
+"Boston College",5,"Speech Communication and Rhetoric",6
+"College of William &amp; Mary",1,"Social Sciences",24
+"College of William &amp; Mary",2,"Business, Management, Marketing, and Related Support Services",11
+"College of William &amp; Mary",3,"Biological and Biomedical Sciences",10
+"College of William &amp; Mary",4,"Psychology",8
+"College of William &amp; Mary",5,"Multi/Interdisciplinary Studies",7
+"Brandeis University",1,"Business/Commerce, General",10
+"Brandeis University",2,"Economics, General",10
+"Brandeis University",3,"Biology/Biological Sciences, General",9
+"Brandeis University",4,"Psychology, General",8
+"Brandeis University",5,"Health Policy Analysis",6
+"Georgia Institute of Technology",1,"Engineering",63
+"Georgia Institute of Technology",2,"Business, Management, Marketing, and Related Support Services",12
+"Georgia Institute of Technology",3,"Computer and Information Sciences and Support Services",11
+"Georgia Institute of Technology",4,"Biological and Biomedical Sciences",4
+"Georgia Institute of Technology",5,"Physical Sciences",2
+"University of Rochester",1,"Social Sciences",15
+"University of Rochester",2,"Engineering",13
+"University of Rochester",3,"Health Professions and Related Programs",12
+"University of Rochester",4,"Biological and Biomedical Sciences",11
+"University of Rochester",5,"Psychology",11
+"Boston University",1,"Business, Management, Marketing, and Related Support Services",20
+"Boston University",2,"Social Sciences",14
+"Boston University",3,"Communication, Journalism, and Related Programs",13
+"Boston University",4,"Health Professions and Related Programs",9
+"Boston University",5,"Engineering",9
+"Case Western Reserve University",1,"Bioengineering and Biomedical Engineering",9
+"Case Western Reserve University",2,"Biology/Biological Sciences, General",9
+"Case Western Reserve University",3,"Mechanical Engineering",8
+"Case Western Reserve University",4,"Psychology, General",8
+"Case Western Reserve University",5,"Registered Nursing/Registered Nurse",6
+"University of California--Santa Barbara",1,"Social Sciences",26
+"University of California--Santa Barbara",2,"Biological and Biomedical Sciences",9
+"University of California--Santa Barbara",3,"Psychology",8
+"University of California--Santa Barbara",4,"Communication, Journalism, and Related Programs",7
+"University of California--Santa Barbara",5,"Visual and Performing Arts",5
+"Northeastern University",1,"Business, Management, Marketing, and Related Support Services",26
+"Northeastern University",2,"Engineering",17
+"Northeastern University",3,"Health Professions and Related Programs",13
+"Northeastern University",4,"Social Sciences",10
+"Northeastern University",5,"Biological and Biomedical Sciences",8
+"Tulane University",1,"Business, Management, Marketing, and Related Support Services",24
+"Tulane University",2,"Social Sciences",15
+"Tulane University",3,"Biological and Biomedical Sciences",11
+"Tulane University",4,"Health Professions and Related Programs",9
+"Tulane University",5,"Communication, Journalism, and Related Programs",6
+"Rensselaer Polytechnic Institute",1,"Engineering",56
+"Rensselaer Polytechnic Institute",2,"Computer and Information Sciences and Support Services",12
+"Rensselaer Polytechnic Institute",3,"Business, Management, Marketing, and Related Support Services",5
+"Rensselaer Polytechnic Institute",4,"Architecture and Related Services",4
+"Rensselaer Polytechnic Institute",5,"Biological and Biomedical Sciences",4
+"University of California--Irvine",1,"Biology/Biological Sciences, General",9
+"University of California--Irvine",2,"Social Psychology",8
+"University of California--Irvine",3,"Public Health, Other",8
+"University of California--Irvine",4,"Business/Managerial Economics",7
+"University of California--Irvine",5,"Criminology",4
+"University of California--San Diego",1,"Biology, General",21
+"University of California--San Diego",2,"Economics",13
+"University of California--San Diego",3,"Computer Engineering",9
+"University of California--San Diego",4,"Psychology, General",6
+"University of California--San Diego",5,"Communication and Media Studies",5
+"University of Florida",1,"Engineering",13
+"University of Florida",2,"Business, Management, Marketing, and Related Support Services",12
+"University of Florida",3,"Biological and Biomedical Sciences",11
+"University of Florida",4,"Social Sciences",11
+"University of Florida",5,"Communication, Journalism, and Related Programs",8
+"Lehigh University",1,"Finance, General",10
+"Lehigh University",2,"Mechanical Engineering",9
+"Lehigh University",3,"Accounting",6
+"Lehigh University",4,"Psychology, General",5
+"Lehigh University",5,"Marketing/Marketing Management, General",5
+"Pepperdine University",1,"Business, Management, Marketing, and Related Support Services",27
+"Pepperdine University",2,"Communication, Journalism, and Related Programs",19
+"Pepperdine University",3,"Social Sciences",11
+"Pepperdine University",4,"Psychology",8
+"Pepperdine University",5,"Multi/Interdisciplinary Studies",7
+"University of California--Davis",1,"Biological and Biomedical Sciences",19
+"University of California--Davis",2,"Social Sciences",17
+"University of California--Davis",3,"Psychology",14
+"University of California--Davis",4,"Engineering",11
+"University of California--Davis",5,"Agriculture, Agriculture Operations, and Related Sciences",6
+"University of Miami",1,"Business, Management, Marketing, and Related Support Services",20
+"University of Miami",2,"Biological and Biomedical Sciences",15
+"University of Miami",3,"Social Sciences",12
+"University of Miami",4,"Health Professions and Related Programs",10
+"University of Miami",5,"Communication, Journalism, and Related Programs",9
+"University of Wisconsin--Madison",1,"Biology/Biological Sciences, General",8
+"University of Wisconsin--Madison",2,"Economics, General",8
+"University of Wisconsin--Madison",3,"Political Science and Government, General",5
+"University of Wisconsin--Madison",4,"Psychology, General",5
+"University of Wisconsin--Madison",5,"Speech Communication and Rhetoric",4
+"Villanova University",1,"Business, Management, Marketing, and Related Support Services",31
+"Villanova University",2,"Social Sciences",12
+"Villanova University",3,"Engineering",11
+"Villanova University",4,"Health Professions and Related Programs",11
+"Villanova University",5,"Communication, Journalism, and Related Programs",8
+"Pennsylvania State University--University Park",1,"Engineering",17
+"Pennsylvania State University--University Park",2,"Business, Management, Marketing, and Related Support Services",17
+"Pennsylvania State University--University Park",3,"Communication, Journalism, and Related Programs",8
+"Pennsylvania State University--University Park",4,"Social Sciences",8
+"Pennsylvania State University--University Park",5,"Computer and Information Sciences and Support Services",6
+"University of Illinois--Urbana-Champaign",1,"Engineering",19
+"University of Illinois--Urbana-Champaign",2,"Business, Management, Marketing, and Related Support Services",13
+"University of Illinois--Urbana-Champaign",3,"Social Sciences",9
+"University of Illinois--Urbana-Champaign",4,"Communication, Journalism, and Related Programs",7
+"University of Illinois--Urbana-Champaign",5,"Biological and Biomedical Sciences",7
+"Ohio State University--Columbus",1,"Psychology, General",6
+"Ohio State University--Columbus",2,"Speech Communication and Rhetoric",5
+"Ohio State University--Columbus",3,"Finance, General",4
+"Ohio State University--Columbus",4,"Biology/Biological Sciences, General",4
+"Ohio State University--Columbus",5,"Marketing/Marketing Management, General",3
+"University of Georgia",1,"Psychology, General",7
+"University of Georgia",2,"Finance, General",7
+"University of Georgia",3,"Biology/Biological Sciences, General",6
+"University of Georgia",4,"Marketing/Marketing Management, General",4
+"University of Georgia",5,"International Relations and Affairs",3
+"George Washington University",1,"Social Sciences",34
+"George Washington University",2,"Business, Management, Marketing, and Related Support Services",18
+"George Washington University",3,"Health Professions and Related Programs",9
+"George Washington University",4,"Communication, Journalism, and Related Programs",5
+"George Washington University",5,"Engineering",5
+"Purdue University--West Lafayette",1,"Engineering",23
+"Purdue University--West Lafayette",2,"Business, Management, Marketing, and Related Support Services",18
+"Purdue University--West Lafayette",3,"Liberal Arts and Sciences, General Studies and Humanities",11
+"Purdue University--West Lafayette",4,"Agriculture, Agriculture Operations, and Related Sciences",9
+"Purdue University--West Lafayette",5,"Engineering Technologies and Engineering-Related Fields",5
+"University of Connecticut",1,"Business, Management, Marketing, and Related Support Services",13
+"University of Connecticut",2,"Health Professions and Related Programs",13
+"University of Connecticut",3,"Social Sciences",11
+"University of Connecticut",4,"Engineering",10
+"University of Connecticut",5,"Biological and Biomedical Sciences",9
+"University of Texas--Austin",1,"Engineering",12
+"University of Texas--Austin",2,"Biological and Biomedical Sciences",11
+"University of Texas--Austin",3,"Business, Management, Marketing, and Related Support Services",11
+"University of Texas--Austin",4,"Communication, Journalism, and Related Programs",11
+"University of Texas--Austin",5,"Social Sciences",11
+"University of Washington",1,"Social Sciences",15
+"University of Washington",2,"Biological and Biomedical Sciences",12
+"University of Washington",3,"Business, Management, Marketing, and Related Support Services",11
+"University of Washington",4,"Engineering",9
+"University of Washington",5,"Communication, Journalism, and Related Programs",6
+"Brigham Young University--Provo",1,"Business, Management, Marketing, and Related Support Services",17
+"Brigham Young University--Provo",2,"Biological and Biomedical Sciences",11
+"Brigham Young University--Provo",3,"Education",8
+"Brigham Young University--Provo",4,"Engineering",8
+"Brigham Young University--Provo",5,"Health Professions and Related Programs",8
+"Fordham University",1,"Speech Communication and Rhetoric",12
+"Fordham University",2,"Business Administration and Management, General",10
+"Fordham University",3,"Psychology, General",8
+"Fordham University",4,"Finance, General",7
+"Fordham University",5,"Economics, General",6
+"Southern Methodist University",1,"Business, Management, Marketing, and Related Support Services",23
+"Southern Methodist University",2,"Social Sciences",15
+"Southern Methodist University",3,"Communication, Journalism, and Related Programs",12
+"Southern Methodist University",4,"Engineering",8
+"Southern Methodist University",5,"Visual and Performing Arts",7
+"Syracuse University",1,"Business, Management, Marketing, and Related Support Services",14
+"Syracuse University",2,"Communication, Journalism, and Related Programs",14
+"Syracuse University",3,"Social Sciences",13
+"Syracuse University",4,"Visual and Performing Arts",9
+"Syracuse University",5,"Engineering",8
+"University of Maryland--College Park",1,"Biology/Biological Sciences, General",7
+"University of Maryland--College Park",2,"Computer Engineering, General",5
+"University of Maryland--College Park",3,"Criminology",5
+"University of Maryland--College Park",4,"Economics, General",5
+"University of Maryland--College Park",5,"Finance, General",5
+"Worcester Polytechnic Institute",1,"Mechanical Engineering",22
+"Worcester Polytechnic Institute",2,"Electrical and Electronics Engineering",11
+"Worcester Polytechnic Institute",3,"Chemical Engineering",9
+"Worcester Polytechnic Institute",4,"Bioengineering and Biomedical Engineering",9
+"Worcester Polytechnic Institute",5,"Computer Science",8
+"Clemson University",1,"Business, Management, Marketing, and Related Support Services",20
+"Clemson University",2,"Engineering",18
+"Clemson University",3,"Biological and Biomedical Sciences",9
+"Clemson University",4,"Agriculture, Agriculture Operations, and Related Sciences",7
+"Clemson University",5,"Health Professions and Related Programs",7
+"University of Pittsburgh",1,"Business, Management, Marketing, and Related Support Services",20
+"University of Pittsburgh",2,"Health Professions and Related Programs",13
+"University of Pittsburgh",3,"Engineering",11
+"University of Pittsburgh",4,"Social Sciences",11
+"University of Pittsburgh",5,"Biological and Biomedical Sciences",8
+"American University",1,"International Relations and Affairs",25
+"American University",2,"Business Administration and Management, General",14
+"American University",3,"Political Science and Government, General",8
+"American University",4,"Mass Communication/Media Studies",6
+"American University",5,"Multi-/Interdisciplinary Studies, Other",4
+"Rutgers University--New Brunswick",1,"Psychology, General",7
+"Rutgers University--New Brunswick",2,"Speech Communication and Rhetoric",5
+"Rutgers University--New Brunswick",3,"Biology/Biological Sciences, General",5
+"Rutgers University--New Brunswick",4,"Kinesiology and Exercise Science",5
+"Rutgers University--New Brunswick",5,"Public Health, General",4
+"Stevens Institute of Technology",1,"Mechanical Engineering",27
+"Stevens Institute of Technology",2,"Business Administration and Management, General",12
+"Stevens Institute of Technology",3,"Civil Engineering, General",10
+"Stevens Institute of Technology",4,"Electrical and Electronics Engineering",9
+"Stevens Institute of Technology",5,"Chemical Engineering",8
+"Texas A&amp;M University--College Station",1,"Business, Management, Marketing, and Related Support Services",17
+"Texas A&amp;M University--College Station",2,"Engineering",14
+"Texas A&amp;M University--College Station",3,"Agriculture, Agriculture Operations, and Related Sciences",10
+"Texas A&amp;M University--College Station",4,"Multi/Interdisciplinary Studies",9
+"Texas A&amp;M University--College Station",5,"Biological and Biomedical Sciences",8
+"University of Minnesota--Twin Cities",1,"Social Sciences",12
+"University of Minnesota--Twin Cities",2,"Biological and Biomedical Sciences",11
+"University of Minnesota--Twin Cities",3,"Engineering",11
+"University of Minnesota--Twin Cities",4,"Business, Management, Marketing, and Related Support Services",9
+"University of Minnesota--Twin Cities",5,"Psychology",7
+"Virginia Tech",1,"Engineering",24
+"Virginia Tech",2,"Business, Management, Marketing, and Related Support Services",19
+"Virginia Tech",3,"Family and Consumer Sciences/Human Sciences",9
+"Virginia Tech",4,"Social Sciences",8
+"Virginia Tech",5,"Biological and Biomedical Sciences",7
+"Baylor University",1,"Biology/Biological Sciences, General",7
+"Baylor University",2,"Registered Nursing/Registered Nurse",6
+"Baylor University",3,"Accounting",5
+"Baylor University",4,"Marketing/Marketing Management, General",4
+"Baylor University",5,"Psychology, General",4
+"Colorado School of Mines",1,"Engineering",88
+"Colorado School of Mines",2,"Computer and Information Sciences and Support Services",6
+"Colorado School of Mines",3,"Mathematics and Statistics",3
+"Colorado School of Mines",4,"Physical Sciences",2
+"Colorado School of Mines",5,"Social Sciences",1
+"University of Massachusetts--Amherst",1,"Business, Management, Marketing, and Related Support Services",14
+"University of Massachusetts--Amherst",2,"Social Sciences",12
+"University of Massachusetts--Amherst",3,"Biological and Biomedical Sciences",10
+"University of Massachusetts--Amherst",4,"Health Professions and Related Programs",9
+"University of Massachusetts--Amherst",5,"Psychology",8
+"Miami University--Oxford",1,"Business, Management, Marketing, and Related Support Services",26
+"Miami University--Oxford",2,"Social Sciences",10
+"Miami University--Oxford",3,"Communication, Journalism, and Related Programs",9
+"Miami University--Oxford",4,"Education",8
+"Miami University--Oxford",5,"Parks, Recreation, Leisure, and Fitness Studies",8
+"Texas Christian University",1,"Business, Management, Marketing, and Related Support Services",22
+"Texas Christian University",2,"Communication, Journalism, and Related Programs",16
+"Texas Christian University",3,"Health Professions and Related Programs",14
+"Texas Christian University",4,"Social Sciences",11
+"Texas Christian University",5,"Visual and Performing Arts",6
+"University of Iowa",1,"Business, Management, Marketing, and Related Support Services",19
+"University of Iowa",2,"Parks, Recreation, Leisure, and Fitness Studies",12
+"University of Iowa",3,"Social Sciences",9
+"University of Iowa",4,"Communication, Journalism, and Related Programs",8
+"University of Iowa",5,"Engineering",7
+"Clark University",1,"Psychology",19
+"Clark University",2,"Business Administration, Management and Operations",8
+"Clark University",3,"Economics",7
+"Clark University",4,"Political Science and Government",7
+"Clark University",5,"Biology, General",6
+"Florida State University",1,"Psychology, General",7
+"Florida State University",2,"Criminal Justice/Safety Studies",6
+"Florida State University",3,"Finance, General",5
+"Florida State University",4,"English Language and Literature, General",5
+"Florida State University",5,"Biology/Biological Sciences, General",4
+"Michigan State University",1,"Business, Management, Marketing, and Related Support Services",18
+"Michigan State University",2,"Communication, Journalism, and Related Programs",13
+"Michigan State University",3,"Social Sciences",11
+"Michigan State University",4,"Biological and Biomedical Sciences",10
+"Michigan State University",5,"Engineering",8
+"North Carolina State University--Raleigh",1,"Engineering",27
+"North Carolina State University--Raleigh",2,"Business, Management, Marketing, and Related Support Services",14
+"North Carolina State University--Raleigh",3,"Biological and Biomedical Sciences",10
+"North Carolina State University--Raleigh",4,"Agriculture, Agriculture Operations, and Related Sciences",6
+"North Carolina State University--Raleigh",5,"Social Sciences",5
+"University of California--Santa Cruz",1,"Psychology, General",12
+"University of California--Santa Cruz",2,"Business/Managerial Economics",6
+"University of California--Santa Cruz",3,"Cell/Cellular and Molecular Biology",6
+"University of California--Santa Cruz",4,"Sociology",6
+"University of California--Santa Cruz",5,"Environmental Studies",5
+"University of Delaware",1,"Business, Management, Marketing, and Related Support Services",16
+"University of Delaware",2,"Social Sciences",15
+"University of Delaware",3,"Health Professions and Related Programs",15
+"University of Delaware",4,"Engineering",7
+"University of Delaware",5,"Biological and Biomedical Sciences",5
+"Binghamton University--SUNY",1,"Business Administration and Management, General",16
+"Binghamton University--SUNY",2,"Biology/Biological Sciences, General",12
+"Binghamton University--SUNY",3,"Engineering, General",10
+"Binghamton University--SUNY",4,"Psychology, General",10
+"Binghamton University--SUNY",5,"English Language and Literature, General",6
+"University of Denver",1,"Business, Management, Marketing, and Related Support Services",30
+"University of Denver",2,"Social Sciences",17
+"University of Denver",3,"Communication, Journalism, and Related Programs",8
+"University of Denver",4,"Psychology",8
+"University of Denver",5,"Biological and Biomedical Sciences",7
+"University of Tulsa",1,"Engineering",24
+"University of Tulsa",2,"Business, Management, Marketing, and Related Support Services",22
+"University of Tulsa",3,"Biological and Biomedical Sciences",7
+"University of Tulsa",4,"Health Professions and Related Programs",5
+"University of Tulsa",5,"Psychology",5
+"Indiana University--Bloomington",1,"Business, Management, Marketing, and Related Support Services",19
+"Indiana University--Bloomington",2,"Communication, Journalism, and Related Programs",9
+"Indiana University--Bloomington",3,"Biological and Biomedical Sciences",8
+"Indiana University--Bloomington",4,"Parks, Recreation, Leisure, and Fitness Studies",8
+"Indiana University--Bloomington",5,"Social Sciences",7
+"Marquette University",1,"Business, Management, Marketing, and Related Support Services",25
+"Marquette University",2,"Biological and Biomedical Sciences",11
+"Marquette University",3,"Communication, Journalism, and Related Programs",11
+"Marquette University",4,"Engineering",11
+"Marquette University",5,"Social Sciences",8
+"University of Colorado--Boulder",1,"Biological and Biomedical Sciences",14
+"University of Colorado--Boulder",2,"Social Sciences",14
+"University of Colorado--Boulder",3,"Business, Management, Marketing, and Related Support Services",13
+"University of Colorado--Boulder",4,"Engineering",11
+"University of Colorado--Boulder",5,"Communication, Journalism, and Related Programs",10
+"University of San Diego",1,"Business, Management, Marketing, and Related Support Services",40
+"University of San Diego",2,"Biological and Biomedical Sciences",12
+"University of San Diego",3,"Social Sciences",12
+"University of San Diego",4,"Communication, Journalism, and Related Programs",8
+"University of San Diego",5,"Engineering",8
+"Drexel University",1,"Health Professions and Related Programs",23
+"Drexel University",2,"Engineering",22
+"Drexel University",3,"Business, Management, Marketing, and Related Support Services",19
+"Drexel University",4,"Visual and Performing Arts",9
+"Drexel University",5,"Biological and Biomedical Sciences",6
+"Saint Louis University",1,"Health Professions and Related Programs",30
+"Saint Louis University",2,"Business, Management, Marketing, and Related Support Services",25
+"Saint Louis University",3,"Engineering",7
+"Saint Louis University",4,"Biological and Biomedical Sciences",6
+"Saint Louis University",5,"Parks, Recreation, Leisure, and Fitness Studies",6
+"Yeshiva University",1,"Business Administration and Management, General",18
+"Yeshiva University",2,"Biology/Biological Sciences, General",15
+"Yeshiva University",3,"Psychology, General",13
+"Yeshiva University",4,"Accounting",12
+"Yeshiva University",5,"Jewish/Judaic Studies",5
+"Rochester Institute of Technology",1,"Engineering",19
+"Rochester Institute of Technology",2,"Computer and Information Sciences and Support Services",16
+"Rochester Institute of Technology",3,"Visual and Performing Arts",13
+"Rochester Institute of Technology",4,"Engineering Technologies and Engineering-Related Fields",12
+"Rochester Institute of Technology",5,"Business, Management, Marketing, and Related Support Services",10
+"Stony Brook University--SUNY",1,"Health Professions and Related Programs",12
+"Stony Brook University--SUNY",2,"Biology/Biological Sciences, General",10
+"Stony Brook University--SUNY",3,"Business Administration and Management, General",8
+"Stony Brook University--SUNY",4,"Psychology, General",8
+"Stony Brook University--SUNY",5,"Applied Mathematics, General",5
+"SUNY College of Environmental Science and Forestry",1,"Environmental Biology",43
+"SUNY College of Environmental Science and Forestry",2,"Natural Resources and Conservation, Other",26
+"SUNY College of Environmental Science and Forestry",3,"Engineering, General",18
+"SUNY College of Environmental Science and Forestry",4,"Landscape Architecture",6
+"SUNY College of Environmental Science and Forestry",5,"Chemistry, General",2
+"University at Buffalo--SUNY",1,"Business, Management, Marketing, and Related Support Services",19
+"University at Buffalo--SUNY",2,"Social Sciences",16
+"University at Buffalo--SUNY",3,"Engineering",14
+"University at Buffalo--SUNY",4,"Psychology",11
+"University at Buffalo--SUNY",5,"Biological and Biomedical Sciences",9
+"University of Oklahoma",1,"Business, Management, Marketing, and Related Support Services",22
+"University of Oklahoma",2,"Engineering",11
+"University of Oklahoma",3,"Health Professions and Related Programs",9
+"University of Oklahoma",4,"Communication, Journalism, and Related Programs",8
+"University of Oklahoma",5,"Liberal Arts and Sciences, General Studies and Humanities",8
+"University of Vermont",1,"Business Administration and Management, General",10
+"University of Vermont",2,"Psychology, General",6
+"University of Vermont",3,"Environmental Studies",5
+"University of Vermont",4,"Biology/Biological Sciences, General",4
+"University of Vermont",5,"Political Science and Government, General",4
+"Auburn University",1,"Business, Management, Marketing, and Related Support Services",21
+"Auburn University",2,"Engineering",19
+"Auburn University",3,"Education",9
+"Auburn University",4,"Biological and Biomedical Sciences",7
+"Auburn University",5,"Health Professions and Related Programs",7
+"Illinois Institute of Technology",1,"Engineering",52
+"Illinois Institute of Technology",2,"Architecture and Related Services",17
+"Illinois Institute of Technology",3,"Computer and Information Sciences and Support Services",10
+"Illinois Institute of Technology",4,"Business, Management, Marketing, and Related Support Services",6
+"Illinois Institute of Technology",5,"Engineering Technologies and Engineering-Related Fields",4
+"Loyola University Chicago",1,"Business, Management, Marketing, and Related Support Services",20
+"Loyola University Chicago",2,"Biological and Biomedical Sciences",15
+"Loyola University Chicago",3,"Health Professions and Related Programs",13
+"Loyola University Chicago",4,"Psychology",10
+"Loyola University Chicago",5,"Social Sciences",10
+"University of New Hampshire",1,"Business Administration and Management, General",18
+"University of New Hampshire",2,"Psychology, General",8
+"University of New Hampshire",3,"Speech Communication and Rhetoric",6
+"University of New Hampshire",4,"Biomedical Sciences, General",5
+"University of New Hampshire",5,"English Language and Literature, General",4
+"University of Oregon",1,"Business/Commerce, General",12
+"University of Oregon",2,"Social Sciences, General",9
+"University of Oregon",3,"Economics, General",7
+"University of Oregon",4,"Psychology, General",7
+"University of Oregon",5,"Physiology, General",6
+"University of South Carolina",1,"Finance and Financial Management Services",5
+"University of South Carolina",2,"Research and Experimental Psychology",5
+"University of South Carolina",3,"Physiology, Pathology and Related Sciences",5
+"University of South Carolina",4,"Biology, General",5
+"University of South Carolina",5,"Public Relations, Advertising, and Applied Communication",4
+"University of Tennessee",1,"Business, Management, Marketing, and Related Support Services",22
+"University of Tennessee",2,"Engineering",10
+"University of Tennessee",3,"Social Sciences",8
+"University of Tennessee",4,"Parks, Recreation, Leisure, and Fitness Studies",7
+"University of Tennessee",5,"Psychology",7
+"Howard University",1,"Physical Sciences",14
+"Howard University",2,"Business, Management, Marketing, and Related Support Services",13
+"Howard University",3,"Communication, Journalism, and Related Programs",11
+"Howard University",4,"Social Sciences",11
+"Howard University",5,"Biological and Biomedical Sciences",9
+"University of Alabama",1,"Business, Management, Marketing, and Related Support Services",30
+"University of Alabama",2,"Engineering",10
+"University of Alabama",3,"Communication, Journalism, and Related Programs",10
+"University of Alabama",4,"Health Professions and Related Programs",9
+"University of Alabama",5,"Education",7
+"University of San Francisco",1,"Business Administration and Management, General",13
+"University of San Francisco",2,"Registered Nursing/Registered Nurse",11
+"University of San Francisco",3,"Finance, General",9
+"University of San Francisco",4,"Psychology, General",7
+"University of San Francisco",5,"Marketing/Marketing Management, General",6
+"University of the Pacific",1,"Business Administration and Management, General",16
+"University of the Pacific",2,"Biology/Biological Sciences, General",13
+"University of the Pacific",3,"Engineering, General",13
+"University of Utah",1,"Communication and Media Studies",7
+"University of Utah",2,"Psychology, General",7
+"University of Utah",3,"Economics, General",5
+"University of Utah",4,"Biology/Biological Sciences, General",4
+"University of Utah",5,"Business Administration and Management, General",4
+"Arizona State University--Tempe",1,"Business, Management, Marketing, and Related Support Services",23
+"Arizona State University--Tempe",2,"Engineering",12
+"Arizona State University--Tempe",3,"Biological and Biomedical Sciences",9
+"Arizona State University--Tempe",4,"Social Sciences",9
+"Arizona State University--Tempe",5,"Visual and Performing Arts",8
+"Iowa State University",1,"Business, Management, Marketing, and Related Support Services",20
+"Iowa State University",2,"Engineering",20
+"Iowa State University",3,"Agriculture, Agriculture Operations, and Related Sciences",12
+"Iowa State University",4,"Biological and Biomedical Sciences",6
+"Iowa State University",5,"Family and Consumer Sciences/Human Sciences",5
+"Temple University",1,"Business, Management, Marketing, and Related Support Services",24
+"Temple University",2,"Communication, Journalism, and Related Programs",13
+"Temple University",3,"Visual and Performing Arts",7
+"Temple University",4,"Parks, Recreation, Leisure, and Fitness Studies",7
+"Temple University",5,"Health Professions and Related Programs",6
+"University of Kansas",1,"Business, Management, Marketing, and Related Support Services",16
+"University of Kansas",2,"Health Professions and Related Programs",12
+"University of Kansas",3,"Engineering",10
+"University of Kansas",4,"Communication, Journalism, and Related Programs",9
+"University of Kansas",5,"Visual and Performing Arts",6
+"University of St. Thomas",1,"Business, Management, Marketing, and Related Support Services",37
+"University of St. Thomas",2,"Communication, Journalism, and Related Programs",5
+"University of St. Thomas",3,"Biological and Biomedical Sciences",4
+"University of St. Thomas",4,"Engineering",4
+"University of St. Thomas",5,"Health Professions and Related Programs",4
+"The Catholic University of America",1,"Political Science and Government, General",10
+"The Catholic University of America",2,"Psychology, General",10
+"The Catholic University of America",3,"Registered Nursing/Registered Nurse",8
+"The Catholic University of America",4,"Architecture",7
+"The Catholic University of America",5,"Mechanical Engineering",6
+"DePaul University",1,"Business, Management, Marketing, and Related Support Services",31
+"DePaul University",2,"Communication, Journalism, and Related Programs",12
+"DePaul University",3,"Liberal Arts and Sciences, General Studies and Humanities",9
+"DePaul University",4,"Social Sciences",8
+"DePaul University",5,"Computer and Information Sciences and Support Services",8
+"Duquesne University",1,"Health Professions and Related Programs",30
+"Duquesne University",2,"Business, Management, Marketing, and Related Support Services",26
+"Duquesne University",3,"Biological and Biomedical Sciences",10
+"Duquesne University",4,"Education",8
+"Duquesne University",5,"Communication, Journalism, and Related Programs",5
+"University of Missouri",1,"Business, Management, Marketing, and Related Support Services",15
+"University of Missouri",2,"Health Professions and Related Programs",14
+"University of Missouri",3,"Communication, Journalism, and Related Programs",12
+"University of Missouri",4,"Engineering",9
+"University of Missouri",5,"Biological and Biomedical Sciences",5
+"Clarkson University",1,"Engineering, General",54
+"Clarkson University",2,"Business Administration and Management, General",22
+"Clarkson University",3,"Biology/Biological Sciences, General",10
+"Clarkson University",4,"Psychology, General",3
+"Clarkson University",5,"Mathematics, General",2
+"Colorado State University",1,"Business, Management, Marketing, and Related Support Services",14
+"Colorado State University",2,"Biological and Biomedical Sciences",10
+"Colorado State University",3,"Social Sciences",9
+"Colorado State University",4,"Family and Consumer Sciences/Human Sciences",9
+"Colorado State University",5,"Engineering",8
+"Michigan Technological University",1,"Engineering",63
+"Michigan Technological University",2,"Business, Management, Marketing, and Related Support Services",7
+"Michigan Technological University",3,"Computer and Information Sciences and Support Services",6
+"Michigan Technological University",4,"Biological and Biomedical Sciences",4
+"Michigan Technological University",5,"Engineering Technologies and Engineering-Related Fields",4
+"Seton Hall University",1,"Registered Nursing/Registered Nurse",15
+"Seton Hall University",2,"Biology/Biological Sciences, General",9
+"Seton Hall University",3,"Humanities/Humanistic Studies",9
+"Seton Hall University",4,"Finance, General",6
+"Seton Hall University",5,"International Relations and Affairs",5
+"University of Arizona",1,"Business, Management, Marketing, and Related Support Services",15
+"University of Arizona",2,"Biological and Biomedical Sciences",10
+"University of Arizona",3,"Social Sciences",9
+"University of Arizona",4,"Health Professions and Related Programs",7
+"University of Arizona",5,"Psychology",7
+"University of California--Riverside",1,"Social Sciences",22
+"University of California--Riverside",2,"Biological and Biomedical Sciences",15
+"University of California--Riverside",3,"Business, Management, Marketing, and Related Support Services",15
+"University of California--Riverside",4,"Psychology",10
+"University of California--Riverside",5,"Engineering",9
+"University of Dayton",1,"Business, Management, Marketing, and Related Support Services",30
+"University of Dayton",2,"Engineering",15
+"University of Dayton",3,"Education",8
+"University of Dayton",4,"Communication, Journalism, and Related Programs",7
+"University of Dayton",5,"Health Professions and Related Programs",7
+"University of Nebraska--Lincoln",1,"Business, Management, Marketing, and Related Support Services",23
+"University of Nebraska--Lincoln",2,"Engineering",10
+"University of Nebraska--Lincoln",3,"Agriculture, Agriculture Operations, and Related Sciences",9
+"University of Nebraska--Lincoln",4,"Communication, Journalism, and Related Programs",8
+"University of Nebraska--Lincoln",5,"Family and Consumer Sciences/Human Sciences",8
+"Hofstra University",1,"Psychology, General",7
+"Hofstra University",2,"Marketing/Marketing Management, General",6
+"Hofstra University",3,"Accounting",5
+"Hofstra University",4,"Public Relations/Image Management",5
+"Hofstra University",5,"Finance, General",4
+"Louisiana State University--Baton Rouge",1,"Business, Management, Marketing, and Related Support Services",22
+"Louisiana State University--Baton Rouge",2,"Engineering",13
+"Louisiana State University--Baton Rouge",3,"Education",10
+"Louisiana State University--Baton Rouge",4,"Biological and Biomedical Sciences",7
+"Louisiana State University--Baton Rouge",5,"Communication, Journalism, and Related Programs",6
+"Mercer University",1,"Business, Management, Marketing, and Related Support Services",20
+"Mercer University",2,"Biological and Biomedical Sciences",14
+"Mercer University",3,"Engineering",14
+"Mercer University",4,"Social Sciences",10
+"Mercer University",5,"Psychology",7
+"The New School",1,"Visual and Performing Arts",58
+"The New School",2,"Social Sciences",9
+"The New School",3,"Business, Management, Marketing, and Related Support Services",6
+"The New School",4,"Communication, Journalism, and Related Programs",6
+"The New School",5,"Liberal Arts and Sciences, General Studies and Humanities",5
+"Rutgers University--Newark",1,"Accounting",15
+"Rutgers University--Newark",2,"Psychology, General",13
+"Rutgers University--Newark",3,"Criminal Justice/Safety Studies",12
+"Rutgers University--Newark",4,"Finance, General",7
+"Rutgers University--Newark",5,"Biology/Biological Sciences, General",7
+"University of Arkansas",1,"Business, Management, Marketing, and Related Support Services",23
+"University of Arkansas",2,"Engineering",10
+"University of Arkansas",3,"Health Professions and Related Programs",8
+"University of Arkansas",4,"Social Sciences",8
+"University of Arkansas",5,"Communication, Journalism, and Related Programs",6
+"University of Cincinnati",1,"Business, Management, Marketing, and Related Support Services",17
+"University of Cincinnati",2,"Health Professions and Related Programs",15
+"University of Cincinnati",3,"Engineering",13
+"University of Cincinnati",4,"Visual and Performing Arts",10
+"University of Cincinnati",5,"Education",7
+"University of Kentucky",1,"Education",5
+"University of Kentucky",2,"Business, Management, Marketing, and Related Support Services",4
+"University of Kentucky",3,"Biological and Biomedical Sciences",4
+"University of Kentucky",4,"Health Professions and Related Programs",4
+"George Mason University",1,"Criminal Justice/Police Science",7
+"George Mason University",2,"Biology/Biological Sciences, General",6
+"George Mason University",3,"Information Technology",6
+"George Mason University",4,"Psychology, General",6
+"George Mason University",5,"Accounting",5
+"New Jersey Institute of Technology",1,"Engineering",37
+"New Jersey Institute of Technology",2,"Computer and Information Sciences and Support Services",19
+"New Jersey Institute of Technology",3,"Engineering Technologies and Engineering-Related Fields",13
+"New Jersey Institute of Technology",4,"Architecture and Related Services",12
+"New Jersey Institute of Technology",5,"Business, Management, Marketing, and Related Support Services",8
+"San Diego State University",1,"Business, Management, Marketing, and Related Support Services",19
+"San Diego State University",2,"Social Sciences",11
+"San Diego State University",3,"Health Professions and Related Programs",9
+"San Diego State University",4,"Psychology",8
+"San Diego State University",5,"Engineering",7
+"University of South Florida",1,"Health Professions and Related Programs",20
+"University of South Florida",2,"Business, Management, Marketing, and Related Support Services",16
+"University of South Florida",3,"Biological and Biomedical Sciences",12
+"University of South Florida",4,"Social Sciences",12
+"University of South Florida",5,"Psychology",6
+"Washington State University",1,"Business, Management, Marketing, and Related Support Services",20
+"Washington State University",2,"Social Sciences",12
+"Washington State University",3,"Engineering",11
+"Washington State University",4,"Health Professions and Related Programs",8
+"Washington State University",5,"Communication, Journalism, and Related Programs",7
+"Kansas State University",1,"Business, Management, Marketing, and Related Support Services",18
+"Kansas State University",2,"Agriculture, Agriculture Operations, and Related Sciences",13
+"Kansas State University",3,"Engineering",10
+"Kansas State University",4,"Social Sciences",8
+"Kansas State University",5,"Family and Consumer Sciences/Human Sciences",8
+"Oregon State University",1,"Engineering",15
+"Oregon State University",2,"Business, Management, Marketing, and Related Support Services",12
+"Oregon State University",3,"Family and Consumer Sciences/Human Sciences",10
+"Oregon State University",4,"Agriculture, Agriculture Operations, and Related Sciences",7
+"Oregon State University",5,"Social Sciences",7
+"St. John Fisher College",1,"Business, Management, Marketing, and Related Support Services",26
+"St. John Fisher College",2,"Health Professions and Related Programs",26
+"St. John Fisher College",3,"Biological and Biomedical Sciences",10
+"St. John Fisher College",4,"Communication, Journalism, and Related Programs",7
+"St. John Fisher College",5,"Social Sciences",7
+"University of Illinois--Chicago",1,"Business, Management, Marketing, and Related Support Services",15
+"University of Illinois--Chicago",2,"Biological and Biomedical Sciences",14
+"University of Illinois--Chicago",3,"Psychology",13
+"University of Illinois--Chicago",4,"Engineering",12
+"University of Illinois--Chicago",5,"Health Professions and Related Programs",8
+"University of Mississippi",1,"General Studies",7
+"University of Mississippi",2,"Accounting",6
+"University of Mississippi",3,"Marketing/Marketing Management, General",6
+"University of Mississippi",4,"Digital Communication and Media/Multimedia",5
+"University of Mississippi",5,"Elementary Education and Teaching",5
+"University of Texas--Dallas",1,"Business, Management, Marketing, and Related Support Services",26
+"University of Texas--Dallas",2,"Biological and Biomedical Sciences",15
+"University of Texas--Dallas",3,"Engineering",11
+"University of Texas--Dallas",4,"Computer and Information Sciences and Support Services",9
+"University of Texas--Dallas",5,"Psychology",7
+"Adelphi University",1,"Registered Nursing/Registered Nurse",29
+"Adelphi University",2,"Psychology, General",7
+"Adelphi University",3,"Business Administration and Management, General",6
+"Adelphi University",4,"Biology/Biological Sciences, General",5
+"Adelphi University",5,"Social Sciences, General",5
+"Florida Institute of Technology",1,"Mechanical Engineering",11
+"Florida Institute of Technology",2,"Aerospace, Aeronautical and Astronautical/Space Engineering",9
+"Florida Institute of Technology",3,"Aviation/Airway Management and Operations",7
+"Florida Institute of Technology",4,"Electrical and Electronics Engineering",6
+"Florida Institute of Technology",5,"Civil Engineering, General",5
+"Ohio University",1,"Registered Nursing/Registered Nurse",37
+"Ohio University",2,"Liberal Arts and Sciences, General Studies and Humanities, Other",4
+"Ohio University",3,"Business Administration and Management, General",3
+"Ohio University",4,"Journalism",3
+"Ohio University",5,"Speech Communication and Rhetoric",3
+"University at Albany--SUNY",1,"Social Sciences",27
+"University at Albany--SUNY",2,"Biological and Biomedical Sciences",12
+"University at Albany--SUNY",3,"Business, Management, Marketing, and Related Support Services",12
+"University at Albany--SUNY",4,"English Language and Literature/Letters",12
+"University at Albany--SUNY",5,"Psychology",11
+"Oklahoma State University",1,"Business, Management, Marketing, and Related Support Services",28
+"Oklahoma State University",2,"Engineering",9
+"Oklahoma State University",3,"Agriculture, Agriculture Operations, and Related Sciences",9
+"Oklahoma State University",4,"Family and Consumer Sciences/Human Sciences",7
+"Oklahoma State University",5,"Biological and Biomedical Sciences",6
+"University of Massachusetts--Lowell",1,"Business, Management, Marketing, and Related Support Services",18
+"University of Massachusetts--Lowell",2,"Engineering",18
+"University of Massachusetts--Lowell",3,"Health Professions and Related Programs",12
+"University of Massachusetts--Lowell",4,"Computer and Information Sciences and Support Services",11
+"University of Massachusetts--Lowell",5,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",9
+"University of Rhode Island",1,"Registered Nursing/Registered Nurse",7
+"University of Rhode Island",2,"Psychology, General",6
+"University of Rhode Island",3,"Speech Communication and Rhetoric",6
+"University of Rhode Island",4,"Kinesiology and Exercise Science",5
+"University of Rhode Island",5,"Human Development and Family Studies, General",4
+"Biola University",1,"Business, Management, Marketing, and Related Support Services",15
+"Biola University",2,"Communication, Journalism, and Related Programs",12
+"Biola University",3,"Visual and Performing Arts",11
+"Biola University",4,"Psychology",9
+"Biola University",5,"Theology and Religious Vocations",8
+"Illinois State University",1,"Business, Management, Marketing, and Related Support Services",21
+"Illinois State University",2,"Education",15
+"Illinois State University",3,"Health Professions and Related Programs",8
+"Illinois State University",4,"Social Sciences",7
+"Illinois State University",5,"Communication, Journalism, and Related Programs",7
+"University of Alabama--Birmingham",1,"Biological and Biomedical Sciences",NA
+"University of Alabama--Birmingham",2,"Business, Management, Marketing, and Related Support Services",NA
+"University of Alabama--Birmingham",3,"Education",NA
+"University of Alabama--Birmingham",4,"Health Professions and Related Programs",NA
+"University of Alabama--Birmingham",5,"Psychology",NA
+"University of Hawaii--Manoa",1,"Business, Management, Marketing, and Related Support Services",20
+"University of Hawaii--Manoa",2,"Health Professions and Related Programs",8
+"University of Hawaii--Manoa",3,"Biological and Biomedical Sciences",7
+"University of Hawaii--Manoa",4,"Engineering",7
+"University of Hawaii--Manoa",5,"Social Sciences",7
+"University of La Verne",1,"Business, Management, Marketing, and Related Support Services",25
+"University of La Verne",2,"Social Sciences",14
+"University of La Verne",3,"Communication, Journalism, and Related Programs",11
+"University of La Verne",4,"Education",11
+"University of La Verne",5,"Psychology",11
+"University of Maryland--Baltimore County",1,"Biological and Biomedical Sciences",17
+"University of Maryland--Baltimore County",2,"Computer and Information Sciences and Support Services",17
+"University of Maryland--Baltimore County",3,"Social Sciences",12
+"University of Maryland--Baltimore County",4,"Psychology",12
+"University of Maryland--Baltimore County",5,"Engineering",9
+"Immaculata University",1,"Health Professions and Related Programs",57
+"Immaculata University",2,"Business, Management, Marketing, and Related Support Services",16
+"Immaculata University",3,"Parks, Recreation, Leisure, and Fitness Studies",6
+"Immaculata University",4,"Education",5
+"Immaculata University",5,"Psychology",4
+"Maryville University of St. Louis",1,"Health Professions and Related Programs",38
+"Maryville University of St. Louis",2,"Business, Management, Marketing, and Related Support Services",25
+"Maryville University of St. Louis",3,"Psychology",11
+"Maryville University of St. Louis",4,"Biological and Biomedical Sciences",5
+"Maryville University of St. Louis",5,"Visual and Performing Arts",5
+"Missouri University of Science &amp; Technology",1,"Engineering",65
+"Missouri University of Science &amp; Technology",2,"Computer and Information Sciences and Support Services",10
+"Missouri University of Science &amp; Technology",3,"Physical Sciences",5
+"Missouri University of Science &amp; Technology",4,"Biological and Biomedical Sciences",4
+"Missouri University of Science &amp; Technology",5,"Engineering Technologies and Engineering-Related Fields",4
+"St. John's University",1,"Business, Management, Marketing, and Related Support Services",23
+"St. John's University",2,"Communication, Journalism, and Related Programs",11
+"St. John's University",3,"Health Professions and Related Programs",11
+"St. John's University",4,"Biological and Biomedical Sciences",8
+"St. John's University",5,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",8
+"University of California--Merced",1,"Biological and Biomedical Sciences",20
+"University of California--Merced",2,"Psychology",19
+"University of California--Merced",3,"Engineering",17
+"University of California--Merced",4,"Social Sciences",17
+"University of California--Merced",5,"Business, Management, Marketing, and Related Support Services",10
+"University of Louisville",1,"Business, Management, Marketing, and Related Support Services",14
+"University of Louisville",2,"Engineering",11
+"University of Louisville",3,"Health Professions and Related Programs",10
+"University of Louisville",4,"Parks, Recreation, Leisure, and Fitness Studies",10
+"University of Louisville",5,"Education",8
+"Mississippi State University",1,"Business, Management, Marketing, and Related Support Services",17
+"Mississippi State University",2,"Engineering",15
+"Mississippi State University",3,"Parks, Recreation, Leisure, and Fitness Studies",8
+"Mississippi State University",4,"Education",8
+"Mississippi State University",5,"Multi/Interdisciplinary Studies",6
+"Rowan University",1,"Business, Management, Marketing, and Related Support Services",16
+"Rowan University",2,"Biological and Biomedical Sciences",12
+"Rowan University",3,"Education",12
+"Rowan University",4,"Psychology",9
+"Rowan University",5,"Communication, Journalism, and Related Programs",9
+"University of Central Florida",1,"Business, Management, Marketing, and Related Support Services",21
+"University of Central Florida",2,"Health Professions and Related Programs",16
+"University of Central Florida",3,"Psychology",9
+"University of Central Florida",4,"Education",8
+"University of Central Florida",5,"Engineering",7
+"University of Idaho",1,"Psychology, General",6
+"University of Idaho",2,"Business Administration and Management, General",4
+"University of Idaho",3,"General Studies",4
+"University of Idaho",4,"Marketing/Marketing Management, General",4
+"University of Idaho",5,"Mechanical Engineering",4
+"Virginia Commonwealth University",1,"Business, Management, Marketing, and Related Support Services",13
+"Virginia Commonwealth University",2,"Visual and Performing Arts",11
+"Virginia Commonwealth University",3,"Psychology",9
+"Virginia Commonwealth University",4,"Biological and Biomedical Sciences",8
+"Virginia Commonwealth University",5,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",8
+"Kent State University",1,"Business, Management, Marketing, and Related Support Services",21
+"Kent State University",2,"Health Professions and Related Programs",18
+"Kent State University",3,"Education",8
+"Kent State University",4,"Communication, Journalism, and Related Programs",8
+"Kent State University",5,"Psychology",7
+"Robert Morris University",1,"Registered Nursing/Registered Nurse",23
+"Robert Morris University",2,"Accounting",17
+"Robert Morris University",3,"Engineering, Other",16
+"Robert Morris University",4,"Business/Commerce, General",14
+"Robert Morris University",5,"Medical Scientist",12
+"Texas Tech University",1,"Business, Management, Marketing, and Related Support Services",21
+"Texas Tech University",2,"Engineering",13
+"Texas Tech University",3,"Multi/Interdisciplinary Studies",9
+"Texas Tech University",4,"Family and Consumer Sciences/Human Sciences",8
+"Texas Tech University",5,"Parks, Recreation, Leisure, and Fitness Studies",6
+"Union University",1,"Health Professions and Related Programs",24
+"Union University",2,"Business, Management, Marketing, and Related Support Services",21
+"Union University",3,"Education",6
+"Union University",4,"Public Administration and Social Service Professions",5
+"Union University",5,"Philosophy and Religious Studies",5
+"University of Hartford",1,"Visual and Performing Arts",23
+"University of Hartford",2,"Health Professions and Related Programs",14
+"University of Hartford",3,"Engineering",13
+"University of Hartford",4,"Business, Management, Marketing, and Related Support Services",11
+"University of Hartford",5,"Communication, Journalism, and Related Programs",7
+"Edgewood College",1,"Registered Nursing/Registered Nurse",24
+"Edgewood College",2,"Business/Commerce, General",10
+"Edgewood College",3,"Psychology, General",10
+"Edgewood College",4,"Biology/Biological Sciences, General",5
+"Edgewood College",5,"Business Administration and Management, General",5
+"Lesley University",1,"Psychology",21
+"Lesley University",2,"Liberal Arts and Sciences, General Studies and Humanities",15
+"Lesley University",3,"Visual and Performing Arts",15
+"Lesley University",4,"Education",9
+"Lesley University",5,"English Language and Literature/Letters",8
+"Lipscomb University",1,"Business, Management, Marketing, and Related Support Services",23
+"Lipscomb University",2,"Health Professions and Related Programs",10
+"Lipscomb University",3,"Biological and Biomedical Sciences",9
+"Lipscomb University",4,"Education",8
+"Lipscomb University",5,"Psychology",7
+"Suffolk University",1,"Business, Management, Marketing, and Related Support Services",47
+"Suffolk University",2,"Communication, Journalism, and Related Programs",14
+"Suffolk University",3,"Social Sciences",13
+"Suffolk University",4,"Biological and Biomedical Sciences",6
+"Suffolk University",5,"Psychology",5
+"University of Maine",1,"Business, Management, Marketing, and Related Support Services",15
+"University of Maine",2,"Engineering",15
+"University of Maine",3,"Education",8
+"University of Maine",4,"Health Professions and Related Programs",7
+"University of Maine",5,"Social Sciences",7
+"University of Wyoming",1,"Registered Nursing/Registered Nurse",9
+"University of Wyoming",2,"Psychology, General",5
+"University of Wyoming",3,"Elementary Education and Teaching",5
+"University of Wyoming",4,"Criminal Justice/Safety Studies",5
+"University of Wyoming",5,"Business Administration and Management, General",4
+"Azusa Pacific University",1,"Health Professions and Related Programs",28
+"Azusa Pacific University",2,"Business, Management, Marketing, and Related Support Services",15
+"Azusa Pacific University",3,"Psychology",10
+"Azusa Pacific University",4,"Liberal Arts and Sciences, General Studies and Humanities",8
+"Azusa Pacific University",5,"Education",8
+"Ball State University",1,"Business, Management, Marketing, and Related Support Services",17
+"Ball State University",2,"Communication, Journalism, and Related Programs",14
+"Ball State University",3,"Health Professions and Related Programs",10
+"Ball State University",4,"Education",7
+"Ball State University",5,"Liberal Arts and Sciences, General Studies and Humanities",6
+"Montclair State University",1,"Business Administration and Management, General",15
+"Montclair State University",2,"Psychology, General",11
+"Montclair State University",3,"Family and Consumer Sciences/Human Sciences, General",7
+"Montclair State University",4,"Biology/Biological Sciences, General",5
+"Montclair State University",5,"Multi-/Interdisciplinary Studies, Other",5
+"Pace University",1,"Business, Management, Marketing, and Related Support Services",33
+"Pace University",2,"Communication, Journalism, and Related Programs",12
+"Pace University",3,"Health Professions and Related Programs",10
+"Pace University",4,"Visual and Performing Arts",10
+"Pace University",5,"Psychology",9
+"West Virginia University",1,"Engineering",14
+"West Virginia University",2,"Business, Management, Marketing, and Related Support Services",13
+"West Virginia University",3,"Multi/Interdisciplinary Studies",8
+"West Virginia University",4,"Social Sciences",7
+"West Virginia University",5,"Communication, Journalism, and Related Programs",7
+"Andrews University",1,"Health Professions and Related Programs",18
+"Andrews University",2,"Business, Management, Marketing, and Related Support Services",9
+"Andrews University",3,"Biological and Biomedical Sciences",7
+"Andrews University",4,"Visual and Performing Arts",6
+"Andrews University",5,"Public Administration and Social Service Professions",5
+"Indiana University-Purdue University--Indianapolis",1,"Health Professions and Related Programs",19
+"Indiana University-Purdue University--Indianapolis",2,"Business, Management, Marketing, and Related Support Services",17
+"Indiana University-Purdue University--Indianapolis",3,"Liberal Arts and Sciences, General Studies and Humanities",8
+"Indiana University-Purdue University--Indianapolis",4,"Engineering",5
+"Indiana University-Purdue University--Indianapolis",5,"Public Administration and Social Service Professions",5
+"University of Houston",1,"Business, Management, Marketing, and Related Support Services",28
+"University of Houston",2,"Engineering",7
+"University of Houston",3,"Psychology",6
+"University of Houston",4,"Communication, Journalism, and Related Programs",6
+"University of Houston",5,"Biological and Biomedical Sciences",5
+"University of New Mexico",1,"Business, Management, Marketing, and Related Support Services",14
+"University of New Mexico",2,"Psychology",12
+"University of New Mexico",3,"Health Professions and Related Programs",9
+"University of New Mexico",4,"Education",8
+"University of New Mexico",5,"Biological and Biomedical Sciences",8
+"University of North Dakota",1,"Psychology, General",6
+"University of North Dakota",2,"Registered Nursing/Registered Nurse",6
+"University of North Dakota",3,"Airline/Commercial/Professional Pilot and Flight Crew",5
+"University of North Dakota",4,"Accounting",4
+"University of North Dakota",5,"Mechanical Engineering",4
+"Widener University",1,"Health Professions and Related Programs",28
+"Widener University",2,"Business, Management, Marketing, and Related Support Services",19
+"Widener University",3,"Engineering",14
+"Widener University",4,"Psychology",9
+"Widener University",5,"Communications Technologies/Technicians and Support Services",5
+"New Mexico State University",1,"Criminal Justice/Safety Studies",8
+"New Mexico State University",2,"Liberal Arts and Sciences/Liberal Studies",6
+"New Mexico State University",3,"Registered Nursing/Registered Nurse",5
+"New Mexico State University",4,"Administrative Assistant and Secretarial Science, General",4
+"New Mexico State University",5,"Psychology, General",4
+"North Dakota State University",1,"Business, Management, Marketing, and Related Support Services",15
+"North Dakota State University",2,"Engineering",13
+"North Dakota State University",3,"Health Professions and Related Programs",11
+"North Dakota State University",4,"Agriculture, Agriculture Operations, and Related Sciences",9
+"North Dakota State University",5,"Family and Consumer Sciences/Human Sciences",8
+"Nova Southeastern University",1,"Health Professions and Related Programs",44
+"Nova Southeastern University",2,"Biological and Biomedical Sciences",19
+"Nova Southeastern University",3,"Business, Management, Marketing, and Related Support Services",11
+"Nova Southeastern University",4,"Psychology",8
+"Nova Southeastern University",5,"Education",3
+"University of North Carolina--Charlotte",1,"Business, Management, Marketing, and Related Support Services",20
+"University of North Carolina--Charlotte",2,"Engineering",8
+"University of North Carolina--Charlotte",3,"Health Professions and Related Programs",8
+"University of North Carolina--Charlotte",4,"Psychology",8
+"University of North Carolina--Charlotte",5,"Social Sciences",8
+"Bowling Green State University",1,"Education, Other",4
+"Bowling Green State University",2,"Biology/Biological Sciences, General",4
+"Bowling Green State University",3,"Psychology, General",4
+"Bowling Green State University",4,"Education/Teaching of Individuals in Early Childhood Special Education Programs",4
+"Bowling Green State University",5,"Special Education and Teaching, General",3
+"California State University--Fullerton",1,"Business, Management, Marketing, and Related Support Services",26
+"California State University--Fullerton",2,"Communication, Journalism, and Related Programs",12
+"California State University--Fullerton",3,"Health Professions and Related Programs",10
+"California State University--Fullerton",4,"Psychology",7
+"California State University--Fullerton",5,"Social Sciences",6
+"Dallas Baptist University",1,"Business Administration and Management, General",NA
+"Dallas Baptist University",2,"Multi-/Interdisciplinary Studies, Other",NA
+"Dallas Baptist University",3,"Psychology, General",NA
+"Dallas Baptist University",4,"Religious Education",NA
+"Dallas Baptist University",5,"Speech Communication and Rhetoric",NA
+"University of Massachusetts--Boston",1,"Business, Management, Marketing, and Related Support Services",19
+"University of Massachusetts--Boston",2,"Health Professions and Related Programs",15
+"University of Massachusetts--Boston",3,"Psychology",11
+"University of Massachusetts--Boston",4,"Social Sciences",11
+"University of Massachusetts--Boston",5,"Biological and Biomedical Sciences",7
+"University of Nevada--Reno",1,"Business, Management, Marketing, and Related Support Services",17
+"University of Nevada--Reno",2,"Health Professions and Related Programs",12
+"University of Nevada--Reno",3,"Engineering",11
+"University of Nevada--Reno",4,"Social Sciences",10
+"University of Nevada--Reno",5,"Biological and Biomedical Sciences",9
+"Central Michigan University",1,"Business, Management, Marketing, and Related Support Services",26
+"Central Michigan University",2,"Education",9
+"Central Michigan University",3,"Psychology",9
+"Central Michigan University",4,"Communication, Journalism, and Related Programs",8
+"Central Michigan University",5,"Parks, Recreation, Leisure, and Fitness Studies",8
+"East Carolina University",1,"Health Professions and Related Programs",19
+"East Carolina University",2,"Business, Management, Marketing, and Related Support Services",19
+"East Carolina University",3,"Education",9
+"East Carolina University",4,"Biological and Biomedical Sciences",6
+"East Carolina University",5,"Communication, Journalism, and Related Programs",6
+"Florida A&amp;M University",1,"Health Professions and Related Programs",24
+"Florida A&amp;M University",2,"Multi/Interdisciplinary Studies",12
+"Florida A&amp;M University",3,"Business, Management, Marketing, and Related Support Services",9
+"Florida A&amp;M University",4,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",8
+"Florida A&amp;M University",5,"Social Sciences",6
+"Montana State University",1,"Engineering",16
+"Montana State University",2,"Business, Management, Marketing, and Related Support Services",10
+"Montana State University",3,"Health Professions and Related Programs",10
+"Montana State University",4,"Family and Consumer Sciences/Human Sciences",9
+"Montana State University",5,"Biological and Biomedical Sciences",8
+"University of Alaska--Fairbanks",1,"Biology/Biological Sciences, General",10
+"University of Alaska--Fairbanks",2,"Business Administration and Management, General",7
+"University of Alaska--Fairbanks",3,"Accounting",6
+"University of Alaska--Fairbanks",4,"Psychology, General",6
+"University of Alaska--Fairbanks",5,"Mechanical Engineering",5
+"University of Colorado--Denver",1,"Business, Management, Marketing, and Related Support Services",17
+"University of Colorado--Denver",2,"Health Professions and Related Programs",17
+"University of Colorado--Denver",3,"Social Sciences",13
+"University of Colorado--Denver",4,"Biological and Biomedical Sciences",10
+"University of Colorado--Denver",5,"Visual and Performing Arts",10
+"University of Massachusetts--Dartmouth",1,"Business, Management, Marketing, and Related Support Services",30
+"University of Massachusetts--Dartmouth",2,"Engineering",12
+"University of Massachusetts--Dartmouth",3,"Health Professions and Related Programs",12
+"University of Massachusetts--Dartmouth",4,"Social Sciences",10
+"University of Massachusetts--Dartmouth",5,"Psychology",8
+"University of Montana",1,"Business, Management, Marketing, and Related Support Services",19
+"University of Montana",2,"Social Sciences",12
+"University of Montana",3,"Visual and Performing Arts",11
+"University of Montana",4,"Natural Resources and Conservation",9
+"University of Montana",5,"Education",9
+"Western Michigan University",1,"Business, Management, Marketing, and Related Support Services",20
+"Western Michigan University",2,"Health Professions and Related Programs",11
+"Western Michigan University",3,"Multi/Interdisciplinary Studies",8
+"Western Michigan University",4,"Education",6
+"Western Michigan University",5,"Engineering",6
+"Florida International University",1,"Business, Management, Marketing, and Related Support Services",28
+"Florida International University",2,"Psychology",12
+"Florida International University",3,"Social Sciences",8
+"Florida International University",4,"Communication, Journalism, and Related Programs",7
+"Florida International University",5,"Biological and Biomedical Sciences",6
+"Louisiana Tech University",1,"Business, Management, Marketing, and Related Support Services",18
+"Louisiana Tech University",2,"Engineering",13
+"Louisiana Tech University",3,"Education",6
+"Louisiana Tech University",4,"Health Professions and Related Programs",6
+"Louisiana Tech University",5,"Biological and Biomedical Sciences",5
+"Southern Illinois University--Carbondale",1,"Education",13
+"Southern Illinois University--Carbondale",2,"Business, Management, Marketing, and Related Support Services",9
+"Southern Illinois University--Carbondale",3,"Engineering Technologies and Engineering-Related Fields",8
+"Southern Illinois University--Carbondale",4,"Health Professions and Related Programs",8
+"Southern Illinois University--Carbondale",5,"Social Sciences",6
+"University of Alabama--Huntsville",1,"Engineering",26
+"University of Alabama--Huntsville",2,"Business, Management, Marketing, and Related Support Services",23
+"University of Alabama--Huntsville",3,"Health Professions and Related Programs",19
+"University of Alabama--Huntsville",4,"Biological and Biomedical Sciences",6
+"University of Alabama--Huntsville",5,"Computer and Information Sciences and Support Services",5
+"University of Missouri--Kansas City",1,"Business/Commerce, General",18
+"University of Missouri--Kansas City",2,"Registered Nursing/Registered Nurse",17
+"University of Missouri--Kansas City",3,"Liberal Arts and Sciences/Liberal Studies",10
+"University of Missouri--Kansas City",4,"Chemistry, General",7
+"University of Missouri--Kansas City",5,"Psychology, General",6
+"Utah State University",1,"Communication Sciences and Disorders, General",10
+"Utah State University",2,"Economics, General",8
+"Utah State University",3,"Business Administration and Management, General",4
+"Utah State University",4,"Physical Education Teaching and Coaching",4
+"Utah State University",5,"Psychology, General",3
+"Ashland University",1,"Education",23
+"Ashland University",2,"Business, Management, Marketing, and Related Support Services",19
+"Ashland University",3,"Health Professions and Related Programs",16
+"Ashland University",4,"Biological and Biomedical Sciences",9
+"Ashland University",5,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",7
+"Benedictine University",1,"Business, Management, Marketing, and Related Support Services",31
+"Benedictine University",2,"Health Professions and Related Programs",27
+"Benedictine University",3,"Psychology",9
+"Benedictine University",4,"Biological and Biomedical Sciences",7
+"Benedictine University",5,"Social Sciences",5
+"California State University--Fresno",1,"Business, Management, Marketing, and Related Support Services",13
+"California State University--Fresno",2,"Health Professions and Related Programs",12
+"California State University--Fresno",3,"Psychology",8
+"California State University--Fresno",4,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",7
+"California State University--Fresno",5,"Liberal Arts and Sciences, General Studies and Humanities",7
+"Gardner-Webb University",1,"Health Professions and Related Programs",27
+"Gardner-Webb University",2,"Business, Management, Marketing, and Related Support Services",20
+"Gardner-Webb University",3,"Psychology",17
+"Gardner-Webb University",4,"Homeland Security, Law Enforcement, Firefighting and Related Protective Services",6
+"Gardner-Webb University",5,"Biological and Biomedical Sciences",5
+"Georgia State University",1,"Business, Management, Marketing, and Related Support Services",25
+"Georgia State University",2,"Social Sciences",10
+"Georgia State University",3,"Psychology",9
+"Georgia State University",4,"Visual and Performing Arts",8
+"Georgia State University",5,"Biological and Biomedical Sciences",7
+"Shenandoah University",1,"Registered Nursing/Registered Nurse",25
+"Shenandoah University",2,"Business Administration and Management, General",11
+"Shenandoah University",3,"Psychology, General",7
+"Shenandoah University",4,"Biology/Biological Sciences, General",6
+"Shenandoah University",5,"Criminal Justice/Law Enforcement Administration",6
+"University of South Dakota",1,"Health Professions and Related Programs",37
+"University of South Dakota",2,"Business, Management, Marketing, and Related Support Services",12
+"University of South Dakota",3,"Education",9
+"University of South Dakota",4,"Biological and Biomedical Sciences",6
+"University of South Dakota",5,"Psychology",6
+"Wayne State University",1,"Psychology, General",12
+"Wayne State University",2,"Biology/Biological Sciences, General",6
+"Wayne State University",3,"Health Professions and Related Clinical Sciences, Other",4
+"Wayne State University",4,"Organizational Behavior Studies",4
+"Wayne State University",5,"Social Work",4

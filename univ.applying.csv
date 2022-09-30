@@ -1,0 +1,231 @@
+"name","deadline","ed_close","app_fee","common_app","interview_required","sat_act","sat_act_date","selectiveness","accept_rate","accept_rate_ed","accept_rate_ea","accept_rate_reg"
+"Princeton University","January 1","N/A",65,"Yes","Recommended","Either SAT or ACT","January 1","Most selective",7,NA,NA,NA
+"Harvard University","January 1","N/A",75,"Yes","Recommended","Either SAT or ACT","March 6","Most selective",5,NA,NA,NA
+"University of Chicago","January 1","November 1",75,"Yes","Recommended","Either SAT or ACT","November 4","Most selective",8,NA,NA,NA
+"Yale University","January 1","N/A",80,"Yes","Recommended","Either SAT or ACT","March 1","Most selective",6,NA,NA,NA
+"Columbia University","January 1","November 1",85,"Yes","Neither required/recommended","Either SAT or ACT","February 1","Most selective",6,21,NA,NA
+"Massachusetts Institute of Technology","January 1","N/A",75,"No","Neither required/recommended","Either SAT or ACT","January 1","Most selective",8,NA,NA,NA
+"Stanford University","January 3","N/A",90,"Yes","Neither required/recommended","Either SAT or ACT","January 15","Most selective",5,NA,NA,NA
+"University of Pennsylvania","January 5","November 1",75,"Yes","Recommended","Either SAT or ACT","February 1","Most selective",9,NA,NA,NA
+"Duke University","January 3","November 1",85,"Yes","Recommended","Either SAT or ACT","January 3","Most selective",11,NA,NA,NA
+"California Institute of Technology","January 3","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","December 31","Most selective",8,NA,NA,NA
+"Dartmouth College","January 1","November 1",80,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",11,26,NA,NA
+"Johns Hopkins University","January 1","November 1",70,"Yes","Recommended","Either SAT or ACT","January 1","Most selective",12,30,NA,NA
+"Northwestern University","January 1","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT","January 15","Most selective",11,NA,NA,NA
+"Brown University","January 1","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",9,22,NA,NA
+"Cornell University","January 1","November 1",80,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",14,NA,NA,NA
+"Rice University","January 1","November 1",75,"Yes","Recommended","Either SAT or ACT","December 31","Most selective",15,23,NA,NA
+"Vanderbilt University","January 1","November 1",50,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",11,24,NA,NA
+"University of Notre Dame","January 1","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","March 1","Most selective",19,NA,NA,NA
+"Washington University in St. Louis","January 2","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT","January 2","Most selective",17,38,NA,NA
+"Georgetown University","January 10","N/A",75,"No","Required","Either SAT or ACT","January 10","Most selective",17,NA,NA,NA
+"Emory University","January 1","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",25,31,NA,NA
+"University of California--Berkeley","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","December 31","Most selective",16,NA,NA,NA
+"University of California--Los Angeles","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","January 15","Most selective",18,NA,NA,NA
+"University of Southern California","January 15","N/A",80,"Yes","Neither required/recommended","Either SAT or ACT","February 15","Most selective",17,NA,NA,NA
+"Carnegie Mellon University","January 1","November 1",75,"Yes","Recommended","Either SAT or ACT","December 1","Most selective",22,26,NA,NA
+"University of Virginia","January 1","N/A",70,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",30,NA,NA,NA
+"Wake Forest University","January 1","November 15",50,"Yes","Recommended","Neither SAT nor ACT","","Most selective",30,NA,NA,NA
+"University of Michigan--Ann Arbor","February 1","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","February 1","Most selective",29,NA,NA,NA
+"Tufts University","January 1","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",14,NA,NA,NA
+"New York University","January 1","November 1",70,"Yes","Neither required/recommended","Neither SAT nor ACT","January 31","Most selective",32,30,NA,NA
+"University of North Carolina--Chapel Hill","January 15","N/A",80,"Yes","Neither required/recommended","Either SAT or ACT","","Most selective",27,NA,NA,NA
+"Boston College","January 1","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",31,NA,NA,NA
+"College of William &amp; Mary","January 1","November 1",70,"Yes","Neither required/recommended","Either SAT or ACT","February 15","Most selective",37,52,NA,NA
+"Brandeis University","January 1","November 1",80,"Yes","Recommended","Either SAT or ACT required for some","January 1","Most selective",33,36,NA,NA
+"Georgia Institute of Technology","January 1","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","February 1","Most selective",26,NA,NA,NA
+"University of Rochester","January 5","November 1",50,"Yes","Recommended","","January 5","More selective",38,49,NA,NA
+"Boston University","January 2","November 1",80,"Yes","Neither required/recommended","Either SAT or ACT","January 2","Most selective",29,32,NA,NA
+"Case Western Reserve University","January 15","November 1",NA,"Yes","Recommended","Either SAT or ACT","January 15","Most selective",35,40,NA,NA
+"University of California--Santa Barbara","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","December 30","Most selective",36,NA,NA,NA
+"Northeastern University","January 1","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT","January 1","Most selective",29,NA,NA,NA
+"Tulane University","January 15","N/A",NA,"Yes","Neither required/recommended","Either SAT or ACT","January 15","Most selective",26,NA,NA,NA
+"Rensselaer Polytechnic Institute","February 1","November 1",70,"Yes","Neither required/recommended","Either SAT or ACT","December 31","Most selective",44,NA,NA,NA
+"University of California--Irvine","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","December 31","More selective",41,NA,NA,NA
+"University of California--San Diego","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","January 15","Most selective",36,NA,NA,NA
+"University of Florida","November 1","N/A",30,"No","Neither required/recommended","Either SAT or ACT","December 31","More selective",46,NA,NA,NA
+"Lehigh University","January 1","November 15",70,"Yes","Neither required/recommended","Either SAT or ACT","January 31","Most selective",26,60,NA,NA
+"Pepperdine University","January 5","N/A",65,"Yes","Neither required/recommended","Either SAT or ACT","January 5","More selective",37,NA,NA,NA
+"University of California--Davis","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","January 31","More selective",42,NA,NA,NA
+"University of Miami","January 1","November 1",70,"Yes","Neither required/recommended","Either SAT or ACT","January 1","More selective",38,29,NA,NA
+"University of Wisconsin--Madison","February 1","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","February 8","More selective",53,NA,NA,NA
+"Villanova University","January 15","N/A",80,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",44,NA,NA,NA
+"Pennsylvania State University--University Park","rolling","N/A",65,"No","Neither required/recommended","Either SAT or ACT","","More selective",56,NA,NA,NA
+"University of Illinois--Urbana-Champaign","December 1","N/A",50,"No","Neither required/recommended","Either SAT or ACT","December 12","More selective",60,NA,NA,NA
+"Ohio State University--Columbus","February 1","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",54,NA,NA,NA
+"University of Georgia","January 1","N/A",70,"No","Neither required/recommended","Either SAT or ACT","January 24","More selective",54,NA,NA,NA
+"George Washington University","January 1","November 1",75,"Yes","Neither required/recommended","Either SAT or ACT required for some","January 1","More selective",40,62,NA,NA
+"Purdue University--West Lafayette","rolling","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",56,NA,NA,NA
+"University of Connecticut","January 15","N/A",80,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",49,NA,NA,NA
+"University of Texas--Austin","December 1","N/A",75,"No","Neither required/recommended","Either SAT or ACT","December 31","More selective",40,NA,NA,NA
+"University of Washington","November 15","N/A",70,"No","Neither required/recommended","Either SAT or ACT","December 31","More selective",45,NA,NA,NA
+"Brigham Young University--Provo","February 1","N/A",35,"No","Required","Either SAT or ACT","February 1","More selective",51,NA,NA,NA
+"Fordham University","January 9","November 8",70,"Yes","Recommended","Either SAT or ACT","February 15","More selective",45,NA,NA,NA
+"Southern Methodist University","January 15","November 1",60,"Yes","Neither required/recommended","Either SAT or ACT","March 15","More selective",49,NA,NA,NA
+"Syracuse University","January 1","November 15",75,"Yes","Recommended","Either SAT or ACT","January 1","More selective",52,66,NA,NA
+"University of Maryland--College Park","January 20","N/A",75,"No","Neither required/recommended","Either SAT or ACT","November 1","More selective",48,NA,NA,NA
+"Worcester Polytechnic Institute","February 1","N/A",65,"Yes","Neither required/recommended","Neither SAT nor ACT","March 1","More selective",48,NA,NA,NA
+"Clemson University","May 1","N/A",70,"No","Neither required/recommended","Either SAT or ACT","May 1","More selective",51,NA,NA,NA
+"University of Pittsburgh","rolling","N/A",45,"No","Neither required/recommended","Either SAT or ACT","","More selective",55,NA,NA,NA
+"American University","January 15","November 15",70,"Yes","Neither required/recommended","Neither SAT nor ACT","January 10","More selective",26,85,NA,NA
+"Rutgers University--New Brunswick","December 1","N/A",70,"No","Neither required/recommended","Either SAT or ACT","December 1","More selective",57,NA,NA,NA
+"Stevens Institute of Technology","February 1","November 15",65,"Yes","Recommended","Either SAT or ACT required for some","February 1","Most selective",39,55,NA,NA
+"Texas A&amp;M University--College Station","December 1","N/A",75,"No","Neither required/recommended","Either SAT or ACT","December 8","More selective",66,NA,NA,NA
+"University of Minnesota--Twin Cities","rolling","N/A",55,"Yes","Neither required/recommended","Either SAT or ACT","December 15","More selective",44,NA,NA,NA
+"Virginia Tech","December 1","November 1",60,"No","Neither required/recommended","Either SAT or ACT","January 15","More selective",71,47,NA,NA
+"Baylor University","February 1","N/A",NA,"Yes","","Either SAT or ACT","February 1","More selective",40,NA,NA,NA
+"Colorado School of Mines","May 1","N/A",45,"No","Neither required/recommended","Either SAT or ACT","February 1","Most selective",40,NA,NA,NA
+"University of Massachusetts--Amherst","January 15","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",60,NA,NA,NA
+"Miami University--Oxford","February 1","November 15",50,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",65,72,NA,NA
+"Texas Christian University","February 15","November 1",40,"Yes","Recommended","Either SAT or ACT","February 15","More selective",38,29,NA,NA
+"University of Iowa","May 1","N/A",40,"No","Neither required/recommended","Either SAT or ACT","April 1","More selective",84,NA,NA,NA
+"Clark University","January 15","November 1",60,"Yes","Recommended","Neither SAT nor ACT","","More selective",55,57,NA,NA
+"Florida State University","February 7","N/A",30,"No","Neither required/recommended","Either SAT or ACT","February 7","More selective",58,NA,NA,NA
+"Michigan State University","rolling","N/A",65,"","Neither required/recommended","Either SAT or ACT","June 15","More selective",66,NA,NA,NA
+"North Carolina State University--Raleigh","January 15","N/A",85,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",46,NA,NA,NA
+"University of California--Santa Cruz","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","January 10","More selective",59,NA,NA,NA
+"University of Delaware","January 15","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",65,NA,NA,NA
+"Binghamton University--SUNY","rolling","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","","More selective",41,NA,NA,NA
+"University of Denver","January 15","November 1",65,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",53,31,NA,NA
+"University of Tulsa","rolling","N/A",50,"Yes","Recommended","Either SAT or ACT","August 1","Most selective",37,NA,NA,NA
+"Indiana University--Bloomington","rolling","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","April 1","More selective",79,NA,NA,NA
+"Marquette University","December 1","N/A",NA,"Yes","Neither required/recommended","Either SAT or ACT","December 1","More selective",74,NA,NA,NA
+"University of Colorado--Boulder","January 15","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",77,NA,NA,NA
+"University of San Diego","December 15","N/A",55,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",51,NA,NA,NA
+"Drexel University","January 15","November 1",50,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",75,NA,NA,NA
+"Saint Louis University","August 20","N/A",NA,"Yes","Recommended","Either SAT or ACT","December 1","More selective",65,NA,NA,NA
+"Yeshiva University","February 1","November 1",65,"No","Required","Either SAT or ACT","","More selective",51,92,NA,NA
+"Rochester Institute of Technology","rolling","November 15",60,"Yes","Recommended","Either SAT or ACT","April 1","More selective",55,62,NA,NA
+"Stony Brook University--SUNY","rolling","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",41,NA,NA,NA
+"SUNY College of Environmental Science and Forestry","rolling","December 1",50,"Yes","Recommended","Either SAT or ACT","March 1","More selective",54,82,NA,NA
+"University at Buffalo--SUNY","rolling","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","","More selective",59,NA,NA,NA
+"University of Oklahoma","February 1","N/A",40,"Yes","Neither required/recommended","Either SAT or ACT","","More selective",71,NA,NA,NA
+"University of Vermont","January 15","N/A",55,"Yes","Neither required/recommended","Either SAT or ACT","February 15","More selective",69,NA,NA,NA
+"Auburn University","June 1","N/A",50,"No","Neither required/recommended","Either SAT or ACT","February 1","More selective",81,NA,NA,NA
+"Illinois Institute of Technology","August 1","N/A",NA,"Yes","Recommended","Either SAT or ACT","August 1","More selective",57,NA,NA,NA
+"Loyola University Chicago","rolling","N/A",NA,"No","Recommended","Either SAT or ACT","February 1","More selective",73,NA,NA,NA
+"University of New Hampshire","February 1","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","February 1","Selective",76,NA,NA,NA
+"University of Oregon","January 15","N/A",65,"Yes","Neither required/recommended","Either SAT or ACT","February 15","Selective",78,NA,NA,NA
+"University of South Carolina","December 1","N/A",65,"No","Neither required/recommended","Either SAT or ACT","February 1","More selective",68,NA,NA,NA
+"University of Tennessee","December 1","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","July 1","More selective",77,NA,NA,NA
+"Howard University","February 15","N/A",45,"Yes","Neither required/recommended","Either SAT or ACT","April 15","Selective",30,NA,NA,NA
+"University of Alabama","rolling","N/A",40,"No","Neither required/recommended","Either SAT or ACT","April 1","More selective",53,NA,NA,NA
+"University of San Francisco","January 15","November 1",65,"Yes","Neither required/recommended","Either SAT or ACT","January 15","More selective",71,48,NA,NA
+"University of the Pacific","August 15","N/A",35,"Yes","","Either SAT or ACT","August 20","More selective",66,NA,NA,NA
+"University of Utah","April 1","N/A",45,"No","Neither required/recommended","Either SAT or ACT","March 31","More selective",76,NA,NA,NA
+"Arizona State University--Tempe","","N/A",50,"No","Neither required/recommended","","","More selective",83,NA,NA,NA
+"Iowa State University","rolling","N/A",40,"","Neither required/recommended","Either SAT or ACT","July 15","More selective",87,NA,NA,NA
+"Temple University","March 1","N/A",55,"Yes","Recommended","Neither SAT nor ACT","March 1","More selective",52,NA,NA,NA
+"University of Kansas","rolling","N/A",40,"No","Neither required/recommended","Either SAT or ACT","May 1","More selective",93,NA,NA,NA
+"University of St. Thomas","rolling","N/A",NA,"Yes","Neither required/recommended","Either SAT or ACT","","More selective",83,NA,NA,NA
+"The Catholic University of America","January 15","November 15",55,"Yes","Recommended","Neither SAT nor ACT","February 15","Selective",80,86,NA,NA
+"DePaul University","February 1","N/A",NA,"Yes","Neither required/recommended","","February 1","More selective",70,NA,NA,NA
+"Duquesne University","July 1","November 1",50,"No","Recommended","Either SAT or ACT required for some","July 1","More selective",74,68,NA,NA
+"University of Missouri","rolling","N/A",55,"No","Neither required/recommended","Either SAT or ACT","May 1","More selective",75,NA,NA,NA
+"Clarkson University","January 15","December 1",50,"Yes","Recommended","Either SAT or ACT","January 15","More selective",68,79,NA,NA
+"Colorado State University","May 1","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","May 1","More selective",78,NA,NA,NA
+"Michigan Technological University","rolling","N/A",NA,"No","Neither required/recommended","Either SAT or ACT","August 25","More selective",76,NA,NA,NA
+"Seton Hall University","rolling","N/A",55,"Yes","Neither required/recommended","Either SAT or ACT","June 1","More selective",67,NA,NA,NA
+"University of Arizona","May 1","N/A",50,"No","Neither required/recommended","Neither SAT nor ACT","May 1","Selective",79,NA,NA,NA
+"University of California--Riverside","November 30","N/A",70,"No","Neither required/recommended","Either SAT or ACT","July 15","More selective",66,NA,NA,NA
+"University of Dayton","March 1","N/A",NA,"Yes","Recommended","Either SAT or ACT","March 1","Selective",60,NA,NA,NA
+"University of Nebraska--Lincoln","May 1","N/A",45,"No","Neither required/recommended","Either SAT or ACT","July 15","More selective",75,NA,NA,NA
+"Hofstra University","rolling","N/A",70,"Yes","Recommended","Neither SAT nor ACT","","More selective",62,NA,NA,NA
+"Louisiana State University--Baton Rouge","April 15","N/A",40,"Yes","Neither required/recommended","Either SAT or ACT","August 1","More selective",76,NA,NA,NA
+"Mercer University","July 1","N/A",50,"Yes","Recommended","Either SAT or ACT","July 1","More selective",69,NA,NA,NA
+"The New School","January 15","November 1",50,"Yes","Recommended","Neither SAT nor ACT","","Selective",60,NA,NA,NA
+"Rutgers University--Newark","rolling","N/A",70,"No","Neither required/recommended","Either SAT or ACT","","Selective",65,NA,NA,NA
+"University of Arkansas","August 1","N/A",40,"Yes","Neither required/recommended","Either SAT or ACT","August 1","More selective",63,NA,NA,NA
+"University of Cincinnati","March 1","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","May 1","More selective",76,NA,NA,NA
+"University of Kentucky","February 15","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","August 1","More selective",91,NA,NA,NA
+"George Mason University","January 15","N/A",70,"Yes","Neither required/recommended","Either SAT or ACT required for some","January 15","Selective",81,NA,NA,NA
+"New Jersey Institute of Technology","March 1","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","July 1","More selective",59,NA,NA,NA
+"San Diego State University","November 30","N/A",55,"No","Neither required/recommended","Either SAT or ACT","November 30","More selective",35,NA,NA,NA
+"University of South Florida","March 15","N/A",30,"No","Neither required/recommended","Either SAT or ACT","January 15","More selective",47,NA,NA,NA
+"Washington State University","rolling","N/A",50,"No","Neither required/recommended","Either SAT or ACT","","Selective",72,NA,NA,NA
+"Kansas State University","rolling","N/A",30,"No","Neither required/recommended","","August 1","Selective",94,NA,NA,NA
+"Oregon State University","September 1","N/A",60,"No","Neither required/recommended","Either SAT or ACT","September 1","Selective",77,NA,NA,NA
+"St. John Fisher College","rolling","December 1",NA,"Yes","Recommended","Either SAT or ACT","April 30","Selective",65,67,NA,NA
+"University of Illinois--Chicago","January 15","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",74,NA,NA,NA
+"University of Mississippi","rolling","N/A",40,"No","Neither required/recommended","Either SAT or ACT required for some","June 1","More selective",78,NA,NA,NA
+"University of Texas--Dallas","May 1","N/A",50,"No","Neither required/recommended","Either SAT or ACT","August 1","More selective",68,NA,NA,NA
+"Adelphi University","rolling","N/A",40,"Yes","Recommended","Either SAT or ACT required for some","","Selective",70,NA,NA,NA
+"Florida Institute of Technology","rolling","N/A",NA,"Yes","Recommended","Either SAT or ACT","August 1","More selective",61,NA,NA,NA
+"Ohio University","February 1","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","March 1","Selective",75,NA,NA,NA
+"Seattle Pacific University","February 1","N/A",50,"Yes","Recommended","Either SAT or ACT","February 1","Selective",87,NA,NA,NA
+"University at Albany--SUNY","March 1","November 15",50,"Yes","Neither required/recommended","Either SAT or ACT","March 1","Selective",54,NA,NA,NA
+"Oklahoma State University","rolling","N/A",40,"No","Neither required/recommended","Either SAT or ACT","","More selective",75,NA,NA,NA
+"University of Massachusetts--Lowell","February 1","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT required for some","March 1","More selective",60,NA,NA,NA
+"University of Rhode Island","February 1","N/A",65,"Yes","Neither required/recommended","Either SAT or ACT","February 1","Selective",71,NA,NA,NA
+"Biola University","rolling","November 15",45,"No","Recommended","Either SAT or ACT","May 1","Selective",65,NA,NA,NA
+"Illinois State University","","N/A",50,"No","Neither required/recommended","ACT","July 1","Selective",89,NA,NA,NA
+"University of Alabama--Birmingham","rolling","N/A",30,"Yes","Neither required/recommended","Either SAT or ACT","June 1","More selective",89,NA,NA,NA
+"University of Hawaii--Manoa","March 1","N/A",70,"No","Neither required/recommended","Either SAT or ACT","March 1","Selective",80,NA,NA,NA
+"University of La Verne","rolling","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","August 31","Selective",48,NA,NA,NA
+"University of Maryland--Baltimore County","February 1","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT","February 1","More selective",57,NA,NA,NA
+"Immaculata University","rolling","N/A",35,"Yes","Recommended","Either SAT or ACT required for some","March 1","Selective",82,NA,NA,NA
+"Maryville University of St. Louis","August 15","N/A",30,"Yes","Recommended","","August 15","Selective",93,NA,NA,NA
+"Missouri University of Science &amp; Technology","July 1","N/A",50,"No","Neither required/recommended","Either SAT or ACT","May 1","More selective",79,NA,NA,NA
+"St. John's University","rolling","N/A",50,"Yes","Neither required/recommended","Either SAT or ACT required for some","September 1","Selective",63,NA,NA,NA
+"University of California--Merced","November 30","N/A",70,"","","Either SAT or ACT","January 15","Less selective",74,NA,NA,NA
+"University of Louisville","August 21","N/A",50,"No","Neither required/recommended","Either SAT or ACT","August 25","Selective",73,NA,NA,NA
+"Mississippi State University","rolling","N/A",40,"","Neither required/recommended","Either SAT or ACT","","More selective",71,NA,NA,NA
+"Rowan University","March 1","N/A",65,"Yes","Neither required/recommended","Either SAT or ACT","January 31","Selective",58,NA,NA,NA
+"University of Central Florida","May 1","N/A",30,"No","Neither required/recommended","Either SAT or ACT","May 1","More selective",50,NA,NA,NA
+"University of Idaho","August 1","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","August 1","Selective",76,NA,NA,NA
+"Virginia Commonwealth University","January 17","N/A",65,"Yes","Neither required/recommended","Either SAT or ACT required for some","February 1","Selective",75,NA,NA,NA
+"Kent State University","May 1","N/A",45,"No","Neither required/recommended","Either SAT or ACT","May 1","Selective",85,NA,NA,NA
+"Robert Morris University","rolling","N/A",30,"No","Recommended","Either SAT or ACT","July 1","Selective",80,NA,NA,NA
+"Texas Tech University","August 1","N/A",75,"No","Neither required/recommended","Either SAT or ACT","August 1","More selective",63,NA,NA,NA
+"Union University","rolling","N/A",35,"No","Recommended","Either SAT or ACT","August 1","More selective",63,NA,NA,NA
+"University of Hartford","rolling","N/A",35,"Yes","Recommended","Either SAT or ACT","August 1","Selective",72,NA,NA,NA
+"Edgewood College","August 15","N/A",30,"Yes","Neither required/recommended","Either SAT or ACT","August 1","Selective",78,NA,NA,NA
+"Lesley University","July 15","N/A",NA,"Yes","Recommended","Either SAT or ACT","March 1","Selective",64,NA,NA,NA
+"Lipscomb University","rolling","N/A",50,"Yes","","Either SAT or ACT","October 1","More selective",61,NA,NA,NA
+"Suffolk University","February 15","N/A",50,"Yes","Recommended","Either SAT or ACT","April 15","Selective",84,NA,NA,NA
+"University of Maine","February 1","N/A",40,"Yes","Neither required/recommended","Either SAT or ACT","May 1","Selective",90,NA,NA,NA
+"University of Wyoming","August 10","N/A",40,"No","Neither required/recommended","Either SAT or ACT","August 10","Selective",95,NA,NA,NA
+"Azusa Pacific University","June 1","N/A",45,"","Neither required/recommended","Either SAT or ACT","June 1","Selective",84,NA,NA,NA
+"Ball State University","August 10","N/A",55,"No","Neither required/recommended","Either SAT or ACT required for some","August 10","Selective",62,NA,NA,NA
+"Montclair State University","March 1","N/A",65,"No","Neither required/recommended","Neither SAT nor ACT","April 1","Less selective",66,NA,NA,NA
+"Pace University","February 15","November 1",50,"Yes","Neither required/recommended","Either SAT or ACT required for some","February 28","Selective",84,NA,NA,NA
+"West Virginia University","August 1","N/A",45,"Yes","Neither required/recommended","Either SAT or ACT","August 1","Selective",76,NA,NA,NA
+"Andrews University","rolling","N/A",30,"","Neither required/recommended","Either SAT or ACT","","More selective",40,NA,NA,NA
+"Indiana University-Purdue University--Indianapolis","May 1","N/A",55,"No","Recommended","Either SAT or ACT","May 1","Selective",74,NA,NA,NA
+"University of Houston","June 15","N/A",75,"Yes","Neither required/recommended","Either SAT or ACT","June 30","More selective",59,NA,NA,NA
+"University of New Mexico","rolling","N/A",25,"No","Neither required/recommended","Either SAT or ACT","June 15","Selective",47,NA,NA,NA
+"University of North Dakota","rolling","N/A",35,"No","Recommended","Either SAT or ACT","July 1","Selective",84,NA,NA,NA
+"Widener University","rolling","N/A",NA,"Yes","Recommended","Either SAT or ACT","February 15","Selective",70,NA,NA,NA
+"New Mexico State University","rolling","N/A",20,"Yes","Neither required/recommended","Either SAT or ACT","August 17","Selective",60,NA,NA,NA
+"North Dakota State University","rolling","N/A",35,"No","Neither required/recommended","Either SAT or ACT","August 1","Selective",93,NA,NA,NA
+"Nova Southeastern University","February 1","November 1",50,"Yes","Recommended","Either SAT or ACT","February 1","More selective",53,43,NA,NA
+"University of North Carolina--Charlotte","June 1","N/A",60,"No","Neither required/recommended","Either SAT or ACT","June 1","Selective",62,NA,NA,NA
+"Bowling Green State University","July 15","N/A",45,"Yes","","Either SAT or ACT","August 1","Selective",75,NA,NA,NA
+"California State University--Fullerton","November 30","N/A",55,"No","Neither required/recommended","Either SAT or ACT","January 15","Selective",48,NA,NA,NA
+"Dallas Baptist University","rolling","N/A",25,"No","Recommended","Either SAT or ACT","August 21","Selective",43,NA,NA,NA
+"University of Massachusetts--Boston","March 1","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT required for some","March 15","Selective",69,NA,NA,NA
+"University of Nevada--Reno","April 7","N/A",60,"No","Neither required/recommended","Either SAT or ACT","April 7","Selective",83,NA,NA,NA
+"Central Michigan University","July 1","N/A",35,"No","Recommended","Either SAT or ACT","July 1","Selective",72,NA,NA,NA
+"East Carolina University","March 1","N/A",70,"No","Neither required/recommended","Either SAT or ACT","March 15","Selective",70,NA,NA,NA
+"Florida A&amp;M University","May 15","N/A",30,"No","","Either SAT or ACT","May 15","Selective",31,NA,NA,NA
+"Montana State University","rolling","N/A",30,"No","Recommended","Either SAT or ACT","","Selective",83,NA,NA,NA
+"University of Alaska--Fairbanks","June 15","N/A",50,"No","Neither required/recommended","Either SAT or ACT","June 15","Selective",73,NA,NA,NA
+"University of Colorado--Denver","rolling","N/A",50,"No","Neither required/recommended","Either SAT or ACT","August 1","Selective",61,NA,NA,NA
+"University of Massachusetts--Dartmouth","rolling","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","August 21","Selective",76,NA,NA,NA
+"University of Montana","rolling","N/A",30,"Yes","Neither required/recommended","Either SAT or ACT","August 28","Selective",92,NA,NA,NA
+"Western Michigan University","rolling","N/A",40,"No","Neither required/recommended","Either SAT or ACT","September 1","Selective",82,NA,NA,NA
+"Florida International University","","N/A",30,"No","Neither required/recommended","Either SAT or ACT","May 1","More selective",49,NA,NA,NA
+"Louisiana Tech University","rolling","N/A",20,"No","Neither required/recommended","Either SAT or ACT","July 1","More selective",63,NA,NA,NA
+"South Dakota State University","rolling","N/A",20,"No","Neither required/recommended","Either SAT or ACT","September 1","Selective",91,NA,NA,NA
+"Southern Illinois University--Carbondale","May 1","N/A",40,"No","Neither required/recommended","Either SAT or ACT","May 1","Selective",77,NA,NA,NA
+"University of Alabama--Huntsville","August 17","N/A",30,"No","Neither required/recommended","Either SAT or ACT","August 1","More selective",76,NA,NA,NA
+"University of Missouri--Kansas City","rolling","N/A",45,"No","Neither required/recommended","Either SAT or ACT","June 15","Selective",62,NA,NA,NA
+"Utah State University","rolling","N/A",50,"No","Neither required/recommended","Either SAT or ACT","August 25","Selective",90,NA,NA,NA
+"Ashland University","rolling","N/A",NA,"Yes","Recommended","Either SAT or ACT","August 15","Selective",72,NA,NA,NA
+"Benedictine University","rolling","N/A",40,"Yes","Neither required/recommended","Either SAT or ACT","August 1","Selective",73,NA,NA,NA
+"California State University--Fresno","November 30","N/A",55,"No","Neither required/recommended","Either SAT or ACT","January 16","Selective",54,NA,NA,NA
+"Gardner-Webb University","rolling","N/A",NA,"No","Recommended","Either SAT or ACT","August 1","Selective",52,NA,NA,NA
+"Georgia State University","March 1","N/A",60,"Yes","Neither required/recommended","Either SAT or ACT","March 1","Selective",53,NA,NA,NA
+"Shenandoah University","rolling","N/A",30,"No","Recommended","Either SAT or ACT","July 1","Selective",88,NA,NA,NA
+"University of South Dakota","rolling","N/A",20,"No","Neither required/recommended","SAT required for some","August 5","Selective",88,NA,NA,NA
+"Wayne State University","August 1","N/A",25,"Yes","Neither required/recommended","Either SAT or ACT","August 1","More selective",68,NA,NA,NA
